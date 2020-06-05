@@ -1,0 +1,13 @@
+{ 
+   "uuid":"3ccf307d-dab6-4c6c-98d6-907416eac471",
+   "username":null,
+   "cosmetics":{ 
+      "cookie_crumbs":{ 
+         "name":"cookie_crumbs",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"cookie_crumbs"
+      }
+   }
+}
