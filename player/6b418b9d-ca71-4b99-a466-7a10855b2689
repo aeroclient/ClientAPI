@@ -16,12 +16,12 @@
          "active":true,
          "resourceLocation":"indigo"
 },
-      "aero_gold.png":{ 
-         "name":"aero_gold.png",
+      "aero_gold":{ 
+         "name":"aero_gold",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"aero_gold.png"
+         "resourceLocation":"aero_gold"
       }
    }
 }
