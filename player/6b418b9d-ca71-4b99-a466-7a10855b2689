@@ -6,7 +6,7 @@
          "name":"purple_lava",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"purple_lava"
 },
       "indigo":{ 
@@ -15,6 +15,13 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"indigo"
+},
+      "aero_gold.png":{ 
+         "name":"aero_gold.png",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"aero_gold.png"
       }
    }
 }
