@@ -6,14 +6,14 @@
          "name":"youtube",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"youtube"
 },
       "red":{ 
          "name":"red",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"red"
       }
    }
