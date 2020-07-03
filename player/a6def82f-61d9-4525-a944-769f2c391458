@@ -1,0 +1,34 @@
+{ 
+   "uuid":"a6def82f-61d9-4525-a944-769f2c391458",
+   "username":null,
+   "cosmetics":{ 
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"youtube"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"red"
+},
+      "famous":{ 
+         "name":"famous",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"famous"
+},
+      "yellow":{ 
+         "name":"yellow",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"yellow"
+      }
+   }
+}
