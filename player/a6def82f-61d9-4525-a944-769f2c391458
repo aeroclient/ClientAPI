@@ -2,20 +2,6 @@
    "uuid":"a6def82f-61d9-4525-a944-769f2c391458",
    "username":null,
    "cosmetics":{ 
-      "youtube":{ 
-         "name":"youtube",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"youtube"
-},
-      "red":{ 
-         "name":"red",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":true,
-         "resourceLocation":"red"
-},
       "famous":{ 
          "name":"famous",
          "type":"cape",
@@ -23,12 +9,96 @@
          "active":true,
          "resourceLocation":"famous"
 },
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube"
+},
+      "orange_lava":{ 
+         "name":"orange_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"orange_lava"
+},
+      "redpink_lava":{ 
+         "name":"redpink_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"redpink_lava"
+},
+      "blue_lava":{ 
+         "name":"blue_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blue_lava"  
+},
+      "green_lava":{ 
+         "name":"green_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"green_lava" 
+},
+      "purple_lava":{ 
+         "name":"purple_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple_lava" 
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"red"
+},
       "yellow":{ 
          "name":"yellow",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"yellow"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"black"         
+},
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"darkblue"   
+},
+      "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"  
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple"           
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"indigo"   
       }
    }
 }
