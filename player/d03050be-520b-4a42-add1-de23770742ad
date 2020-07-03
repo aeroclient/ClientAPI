@@ -15,6 +15,20 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"red"
+},
+      "twitch":{ 
+         "name":"twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"twitch"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple"
       }
    }
 }
