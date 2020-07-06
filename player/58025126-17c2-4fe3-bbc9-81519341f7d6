@@ -89,7 +89,7 @@
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
-         "scale":0.15,
+         "scale":0.13,
          "active":true,
          "resourceLocation":"black"         
 },
