@@ -6,21 +6,42 @@
          "name":"red",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"red"
 },
       "yellow":{ 
          "name":"yellow",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"yellow"
+},
+      "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"black"
+},
+      "famous":{ 
+         "name":"famous",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"famous"
 },
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"youtube"
 },
       "aero_gold":{ 
