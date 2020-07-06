@@ -2,11 +2,18 @@
    "uuid":"a6def82f-61d9-4525-a944-769f2c391458",
    "username":null,
    "cosmetics":{ 
+      "heeds":{ 
+         "name":"heeds",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"heeds"
+},
       "famous":{ 
          "name":"famous",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"famous"
 },
       "youtube":{ 
