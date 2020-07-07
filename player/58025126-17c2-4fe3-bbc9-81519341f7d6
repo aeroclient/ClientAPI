@@ -209,7 +209,7 @@
          "name":"protected",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"protected"
 },
       "twitch":{ 
