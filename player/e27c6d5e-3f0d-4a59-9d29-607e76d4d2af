@@ -8,6 +8,13 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"red"
+},
+      "aero_gold":{ 
+         "name":"aero_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"aero_gold"
       }
    }
 }
