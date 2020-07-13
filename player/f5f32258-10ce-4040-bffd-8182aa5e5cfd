@@ -8,6 +8,13 @@
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"white"  
+},
+      "orange_lava":{  
+         "name":"orange_lava",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"orange_lava"  
       }  
    }  
 }  
