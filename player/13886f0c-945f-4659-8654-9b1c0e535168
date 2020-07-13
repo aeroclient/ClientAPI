@@ -15,6 +15,13 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"orange_lava"  
+},
+      "tellinqclient":{  
+         "name":"tellinqclient",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"tellinqclient"  
       }  
    }  
 }  
