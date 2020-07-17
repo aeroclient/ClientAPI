@@ -163,20 +163,6 @@
          "active":false,
          "resourceLocation":"redpink_lava"
 },
-      "staff":{ 
-         "name":"staff",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"staff"
-},
-      "cici":{ 
-         "name":"cici",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"cici"
-},
       "cookie":{ 
          "name":"cookie",
          "type":"cape",
@@ -223,7 +209,7 @@
          "name":"whitebeta",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"whitebeta"
       }
    }
