@@ -13,7 +13,7 @@
          "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"black"
 },
       "blue":{ 
@@ -44,6 +44,48 @@
          "active":false,
          "resourceLocation":"butterfly_2"
 },
+      "weedwings":{ 
+         "name":"weedwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"weedwings"
+},
+      "pinkbutterfly":{ 
+         "name":"pinkbutterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pinkbutterfly"
+},
+      "rainbowbutterfly":{ 
+         "name":"rainbowbutterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"rainbowbutterfly"
+},
+      "lightbluewings":{ 
+         "name":"lightbluewings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"lightbluewings"
+},
+      "lightpinkwings":{ 
+         "name":"lightpinkwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"lightpinkwings"
+},
+      "mintwings":{ 
+         "name":"mintwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"mintwings"
+},
       "darkblue":{ 
          "name":"darkblue",
          "type":"dragon_wings",
@@ -69,7 +111,7 @@
          "name":"indigo",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"indigo"
 },
       "orange":{ 
@@ -167,7 +209,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff"
 },
       "cici":{ 
@@ -237,7 +279,7 @@
          "name":"strafe",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"strafe"
 },
       "strafe_2":{ 
