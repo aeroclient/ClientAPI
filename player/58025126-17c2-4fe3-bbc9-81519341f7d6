@@ -225,6 +225,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"whitebeta"
+},
+      "chatmod":{ 
+         "name":"chatmod",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"chatmod"
       }
    }
 }
