@@ -232,6 +232,20 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"chatmod"
+},
+      "strafe":{ 
+         "name":"strafe",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"strafe"
+},
+      "strafe_2":{ 
+         "name":"strafe_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"strafe_2"
       }
    }
 }
