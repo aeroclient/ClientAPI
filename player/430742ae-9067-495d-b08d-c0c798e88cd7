@@ -9,6 +9,13 @@
          "active":true,  
          "resourceLocation":"indigo"  
 },  
+      "pizza":{  
+         "name":"pizza",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"pizza"  
+},  
       "strafe":{  
          "name":"strafe",  
          "type":"cape",  
