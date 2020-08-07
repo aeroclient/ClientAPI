@@ -13,7 +13,7 @@
          "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"black"
 },
       "blue":{ 
@@ -111,7 +111,7 @@
          "name":"indigo",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"indigo"
 },
       "orange":{ 
@@ -209,7 +209,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"staff"
 },
       "cici":{ 
@@ -279,7 +279,7 @@
          "name":"strafe",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"strafe"
 },
       "strafe_2":{ 
