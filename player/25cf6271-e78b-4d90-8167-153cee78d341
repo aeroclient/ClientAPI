@@ -15,6 +15,27 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"red"
+},
+      "indigo":{  
+         "name":"indigo",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"indigo"  
+},  
+      "strafe":{  
+         "name":"strafe",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"strafe"  
+},  
+      "strafe_2":{  
+         "name":"strafe_2",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"strafe_2"  
       }
    }
 }
