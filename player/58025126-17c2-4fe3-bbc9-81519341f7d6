@@ -288,6 +288,55 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"strafe_2"
+},
+      "anticheat_admin":{ 
+         "name":"anticheat_admin",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"anticheat_admin"
+},
+      "corona_mask":{ 
+         "name":"corona_mask",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"corona_mask"
+},
+      "pizza":{ 
+         "name":"pizza",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pizza"
+},
+      "weather":{ 
+         "name":"weather",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"weather"
+},
+      "pasta":{ 
+         "name":"pasta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pasta"
+},
+      "fox":{ 
+         "name":"fox",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fox"
+},
+      "tiger":{ 
+         "name":"tiger",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"tiger"
       }
    }
 }
