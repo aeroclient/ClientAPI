@@ -9,11 +9,18 @@
          "active":false,
          "resourceLocation":"white"
 },
+      "original_black":{ 
+         "name":"original_black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"original_black"
+},
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"black"
 },
       "blue":{ 
