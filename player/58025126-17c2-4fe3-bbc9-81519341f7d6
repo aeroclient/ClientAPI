@@ -163,6 +163,13 @@
          "active":false,
          "resourceLocation":"yellow"
 },
+      "ac":{ 
+         "name":"ac",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"ac"
+},
       "aero_gold":{ 
          "name":"aero_gold",
          "type":"cape",
@@ -216,7 +223,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff"
 },
       "cici":{ 
