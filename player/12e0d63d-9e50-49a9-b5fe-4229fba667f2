@@ -275,11 +275,18 @@
          "active":false,
          "resourceLocation":"chatmod"
 },
+      "strafehcf":{ 
+         "name":"strafehcf",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"strafehcf"
+},
       "strafe":{ 
          "name":"strafe",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"strafe"
 },
       "strafe_2":{ 
