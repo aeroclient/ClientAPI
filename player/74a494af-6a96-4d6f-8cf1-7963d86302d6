@@ -261,6 +261,13 @@
          "active":false,
          "resourceLocation":"chatmod"
 },
+      "strafehcf":{ 
+         "name":"strafehcf",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"strafehcf"
+},
       "strafe":{ 
          "name":"strafe",
          "type":"cape",
@@ -272,7 +279,7 @@
          "name":"strafe_2",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"strafe_2"
 },
       "anticheat_admin":{ 
