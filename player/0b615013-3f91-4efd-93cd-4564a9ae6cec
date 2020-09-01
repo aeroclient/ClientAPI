@@ -121,11 +121,18 @@
          "active":false,
          "resourceLocation":"aero_gold"
 },
+      "vaultpvp":{ 
+         "name":"vaultpvp",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"vaultpvp"
+},
       "blackbeta":{ 
          "name":"blackbeta",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"blackbeta"
 },
       "blue_lava":{ 
