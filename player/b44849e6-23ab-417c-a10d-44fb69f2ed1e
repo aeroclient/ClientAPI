@@ -251,7 +251,7 @@
          "name":"famous",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"famous"
 },
       "youtube":{ 
