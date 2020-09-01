@@ -170,6 +170,13 @@
          "active":false,
          "resourceLocation":"strafehcf"
 },
+      "vaultpvp":{ 
+         "name":"vaultpvp",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"vaultpvp"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
