@@ -8,6 +8,13 @@
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"white"  
+},
+      "strafehcf":{  
+         "name":"strafehcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"strafehcf"  
       }  
    }  
 }  
