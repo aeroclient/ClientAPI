@@ -167,14 +167,14 @@
          "name":"strafehcf",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"strafehcf"
 },
       "ac":{ 
          "name":"ac",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"ac"
 },
       "aero_gold":{ 
