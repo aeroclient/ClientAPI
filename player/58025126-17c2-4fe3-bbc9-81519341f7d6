@@ -174,7 +174,7 @@
          "name":"ac",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"ac"
 },
       "aero_gold":{ 
@@ -232,6 +232,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"staff"
+},
+      "hcflags":{ 
+         "name":"hcflags",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"hcflags"
 },
       "cici":{ 
          "name":"cici",
