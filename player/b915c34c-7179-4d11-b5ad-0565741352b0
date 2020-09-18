@@ -9,12 +9,61 @@
          "active":true,  
          "resourceLocation":"red"  
 },  
+      "blue":{  
+         "name":"blue",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"blue"  
+},  
+      "bone":{  
+         "name":"bone",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"bone"  
+},  
+      "rainbowbutterfly":{  
+         "name":"rainbowbutterfly",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"rainbowbutterfly" 
+},  
+      "black":{  
+         "name":"black",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"black" 
+},  
       "youtube":{  
          "name":"youtube",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"youtube"  
+},  
+      "blackbeta":{  
+         "name":"blackbeta",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"blackbeta"  
+},  
+      "cookie":{  
+         "name":"cookie",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"cookie"  
+},  
+      "weather":{  
+         "name":"weather",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"weather"  
       }  
    }  
 }  
