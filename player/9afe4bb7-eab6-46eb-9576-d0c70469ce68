@@ -1,0 +1,13 @@
+{  
+   "uuid":"9afe4bb7-eab6-46eb-9576-d0c70469ce68", 
+   "username":null,  
+   "cosmetics":{  
+      "hcflags":{  
+         "name":"hcflags",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"hcflags"  
+      }  
+   }  
+}  
