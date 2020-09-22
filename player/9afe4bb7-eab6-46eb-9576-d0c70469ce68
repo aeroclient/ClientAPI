@@ -219,13 +219,6 @@
          "active":false,
          "resourceLocation":"redpink_lava"
 },
-      "staff":{ 
-         "name":"staff",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"staff"
-},
       "hcflags":{ 
          "name":"hcflags",
          "type":"cape",
@@ -289,13 +282,6 @@
          "active":false,
          "resourceLocation":"whitebeta"
 },
-      "chatmod":{ 
-         "name":"chatmod",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"chatmod"
-},
       "strafe":{ 
          "name":"strafe",
          "type":"cape",
@@ -309,13 +295,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"strafe_2"
-},
-      "anticheat_admin":{ 
-         "name":"anticheat_admin",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"anticheat_admin"
 },
       "corona_mask":{ 
          "name":"corona_mask",
