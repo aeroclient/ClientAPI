@@ -1,0 +1,13 @@
+{  
+   "uuid":"a7e4bab8-4f26-4645-ba62-13184d8a4617", 
+   "username":null,  
+   "cosmetics":{  
+      "tropicalhcf":{  
+         "name":"tropicalhcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"tropicalhcf"  
+      }  
+   }  
+}  
