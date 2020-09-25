@@ -2,6 +2,167 @@
    "uuid":"2b012bf2-30ed-4d8c-91f9-bf173a781579",
    "username":null,
    "cosmetics":{ 
+         "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"
+},
+      "original_black":{ 
+         "name":"original_black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"original_black"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"black"
+},
+      "blue":{ 
+         "name":"blue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"blue"
+},
+      "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"bone"
+},
+      "butterfly_1":{ 
+         "name":"butterfly_1",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"butterfly_1"
+},
+      "butterfly_2":{ 
+         "name":"butterfly_2",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"butterfly_2"
+},
+      "weedwings":{ 
+         "name":"weedwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"weedwings"
+},
+      "pinkbutterfly":{ 
+         "name":"pinkbutterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pinkbutterfly"
+},
+      "rainbowbutterfly":{ 
+         "name":"rainbowbutterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"rainbowbutterfly"
+},
+      "lightbluewings":{ 
+         "name":"lightbluewings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"lightbluewings"
+},
+      "lightpinkwings":{ 
+         "name":"lightpinkwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"lightpinkwings"
+},
+      "mintwings":{ 
+         "name":"mintwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"mintwings"
+},
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"darkblue"
+},
+      "darkpurple":{ 
+         "name":"darkpurple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"darkpurple"
+},
+      "green":{ 
+         "name":"green",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"green"
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"indigo"
+},
+      "orange":{ 
+         "name":"orange",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"orange"
+},
+      "pink":{ 
+         "name":"pink",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pink"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"red"
+},
+      "turquoise":{ 
+         "name":"turquoise",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"turquoise"
+},
+      "yellow":{ 
+         "name":"yellow",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"yellow"
+},
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
