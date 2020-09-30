@@ -163,6 +163,13 @@
          "active":false,
          "resourceLocation":"yellow"
 },
+      "staff":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"staff"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
@@ -232,13 +239,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"cici"
-},
-      "banned":{ 
-         "name":"banned",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"banned"
 },
       "cookie":{ 
          "name":"cookie",
