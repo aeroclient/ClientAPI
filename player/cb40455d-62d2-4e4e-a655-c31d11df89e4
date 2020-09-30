@@ -163,6 +163,13 @@
          "active":false,
          "resourceLocation":"yellow"
 },
+      "staff":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"staff"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
@@ -223,7 +230,7 @@
          "name":"hcflags",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"hcflags"
 },
       "cici":{ 
