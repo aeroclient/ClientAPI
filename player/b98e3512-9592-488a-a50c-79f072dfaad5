@@ -223,7 +223,7 @@
          "name":"hcflags",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"hcflags"
 },
       "cici":{ 
@@ -232,6 +232,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"cici"
+},
+      "banned":{ 
+         "name":"banned",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"banned"
 },
       "cookie":{ 
          "name":"cookie",
