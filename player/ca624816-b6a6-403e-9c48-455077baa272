@@ -3,7 +3,7 @@
    "username":null,  
    "cosmetics":{  
       "orange":{  
-         "name":"orange",  
+         "name":"orange",
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
