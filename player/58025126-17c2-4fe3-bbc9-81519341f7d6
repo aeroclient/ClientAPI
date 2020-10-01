@@ -184,6 +184,13 @@
          "active":false,
          "resourceLocation":"blackbeta"
 },
+      "royalehcf":{ 
+         "name":"royalehcf",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"royalehcf"
+},
       "blue_lava":{ 
          "name":"blue_lava",
          "type":"cape",
