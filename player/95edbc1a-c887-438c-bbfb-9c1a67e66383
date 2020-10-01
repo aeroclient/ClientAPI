@@ -2,32 +2,26 @@
    "uuid":"95edbc1a-c887-438c-bbfb-9c1a67e66383", 
    "username":null,  
    "cosmetics":{  
-      "95edbc1a-c887-438c-bbfb-9c1a67e66383":{  
-         "name":"95edbc1a-c887-438c-bbfb-9c1a67e66383",  
-         "type":"dragon_wings",  
-         "scale":0.13,  
-         "active":true,  
-         "resourceLocation":"95edbc1a-c887-438c-bbfb-9c1a67e66383"  
-},  
-      "0.13":{  
-         "name":"0.13",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":true,  
-         "resourceLocation":"0.13"  
-      }  
-   }  
-}  
-{  
-   "uuid":"95edbc1a-c887-438c-bbfb-9c1a67e66383", 
-   "username":null,  
-   "cosmetics":{  
       "white":{  
          "name":"white",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"white"  
+},
+      "bone":{  
+         "name":"bone",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"bone"  
+},
+      "black":{  
+         "name":"black",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"black"  
 },  
       "fox":{  
          "name":"fox",  
