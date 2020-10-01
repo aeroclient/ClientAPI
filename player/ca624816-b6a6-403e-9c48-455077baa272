@@ -2,12 +2,12 @@
    "uuid":"ca624816-b6a6-403e-9c48-455077baa272", 
    "username":null,  
    "cosmetics":{  
-      "orange ":{  
-         "name":"orange ",  
+      "orange":{  
+         "name":"orange",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"orange "  
+         "resourceLocation":"orange"  
 },  
       "aero_gold":{  
          "name":"aero_gold",  
