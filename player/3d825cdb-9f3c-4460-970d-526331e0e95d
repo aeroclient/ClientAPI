@@ -163,12 +163,12 @@
          "active":false,
          "resourceLocation":"yellow"
 },
-      "strafehcf":{ 
-         "name":"strafehcf",
+      "packfolder":{ 
+         "name":"packfolder",
          "type":"cape",
          "scale":0.16,
-         "active":false,
-         "resourceLocation":"strafehcf"
+         "active":true,
+         "resourceLocation":"packfolder"
 },
       "ac":{ 
          "name":"ac",
@@ -258,7 +258,7 @@
          "name":"youtube",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"youtube"
 },
       "pancape":{ 
