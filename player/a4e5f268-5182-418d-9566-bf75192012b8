@@ -2,26 +2,19 @@
    "uuid":"a4e5f268-5182-418d-9566-bf75192012b8", 
    "username":null,  
    "cosmetics":{  
-      "indigo":{  
-         "name":"indigo",  
+      "yellow":{  
+         "name":"yellow",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"indigo"  
+         "resourceLocation":"yellow"  
 },  
-      "strafe":{  
-         "name":"strafe",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"strafe"  
-},  
-      "strafe_2":{  
-         "name":"strafe_2",  
+      "famous":{  
+         "name":"famous",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"strafe_2"  
+         "resourceLocation":"famous"  
       }  
    }  
 }  
