@@ -4,14 +4,14 @@
    "cosmetics":{  
       "white":{  
          "name":"white",  
-         "type":"cape",  
+         "type":"dragon_wings",  
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"white"  
 },
       "original_black":{  
          "name":"original_black",  
-         "type":"cape",  
+         "type":"dragon_wings",  
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"original_black"  
