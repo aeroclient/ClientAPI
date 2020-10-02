@@ -2,6 +2,20 @@
    "uuid":"a504e611-45ea-423f-a245-9dfcb17a4bb9", 
    "username":null,  
    "cosmetics":{  
+      "white":{  
+         "name":"white",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"white"  
+},
+      "original_black":{  
+         "name":"original_black",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"original_black"  
+},
       "royalehcf_black":{  
          "name":"royalehcf_black",  
          "type":"cape",  
