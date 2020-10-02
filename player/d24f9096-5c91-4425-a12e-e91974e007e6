@@ -2,12 +2,19 @@
    "uuid":"d24f9096-5c91-4425-a12e-e91974e007e6", 
    "username":null,  
    "cosmetics":{  
-      "royalehcf":{  
-         "name":"royalehcf",  
+      "royalehcf_black":{  
+         "name":"royalehcf_black",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"royalehcf"  
+         "resourceLocation":"royalehcf_black"  
+},
+      "royalehcf_white":{  
+         "name":"royalehcf_white",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"royalehcf_white"  
       }  
    }  
 }  
