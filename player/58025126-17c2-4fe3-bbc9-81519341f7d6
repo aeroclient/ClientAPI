@@ -170,6 +170,13 @@
          "active":true,
          "resourceLocation":"ac"
 },
+      "packfolder":{ 
+         "name":"packfolder",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"packfolder"
+},
       "aero_gold":{ 
          "name":"aero_gold",
          "type":"cape",
