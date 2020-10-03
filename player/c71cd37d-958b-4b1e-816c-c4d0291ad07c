@@ -8,6 +8,13 @@
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"purple"  
+},
+      "green":{  
+         "name":"green",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"green"  
 },  
       "twitch":{  
          "name":"twitch",  
