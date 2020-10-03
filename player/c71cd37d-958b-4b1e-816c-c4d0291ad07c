@@ -29,6 +29,13 @@
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"ac"  
+},  
+      "green_lava":{  
+         "name":"green_lava",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"green_lava"  
       }  
    }  
 }  
