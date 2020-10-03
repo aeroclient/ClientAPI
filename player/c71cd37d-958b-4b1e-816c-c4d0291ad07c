@@ -1,0 +1,27 @@
+{  
+   "uuid":"c71cd37d-958b-4b1e-816c-c4d0291ad07c", 
+   "username":null,  
+   "cosmetics":{  
+      "purple":{  
+         "name":"purple",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"purple"  
+},  
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"twitch"  
+},  
+      "ac":{  
+         "name":"ac",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"ac"  
+      }  
+   }  
+}  
