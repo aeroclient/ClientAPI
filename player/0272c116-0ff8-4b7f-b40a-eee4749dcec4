@@ -1,0 +1,13 @@
+{  
+   "uuid":"0272c116-0ff8-4b7f-b40a-eee4749dcec4", 
+   "username":null,  
+   "cosmetics":{  
+      "hcfatal":{  
+         "name":"hcfatal",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"hcfatal"  
+      }  
+   }  
+}  
