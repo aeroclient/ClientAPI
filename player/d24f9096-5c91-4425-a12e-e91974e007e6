@@ -16,11 +16,18 @@
          "active":false,  
          "resourceLocation":"white"  
 },
+      "youtube":{  
+         "name":"youtube",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"youtube"  
+},
       "royalehcf_black":{  
          "name":"royalehcf_black",  
          "type":"cape",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"royalehcf_black"  
 },
       "royalehcf_white":{  
