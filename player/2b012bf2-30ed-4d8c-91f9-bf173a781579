@@ -169,6 +169,13 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"youtube"
+},
+      "blue_lava":{ 
+         "name":"blue_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blue_lava"
       }
    }
 }
