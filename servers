@@ -1,0 +1,13 @@
+{
+    "servers":{
+      "Certix Network":{
+        "address":"certix.cc"
+},	
+      "RoyaleHCF Network":{	
+        "address":"play.royalehcf.com"
+},	
+      "HCFlags Network":{	
+        "address":"hcflags.club"
+        }
+    }
+}
