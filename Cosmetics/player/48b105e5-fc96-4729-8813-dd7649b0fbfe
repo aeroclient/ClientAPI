@@ -1,0 +1,34 @@
+{  
+   "uuid":"48b105e5-fc96-4729-8813-dd7649b0fbfe", 
+   "username":null,  
+   "cosmetics":{  
+      "strafehcf":{  
+         "name":"strafehcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"strafehcf" 
+},
+      "blackbeta":{ 
+         "name":"blackbeta",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"blackbeta"
+},
+      "whitebeta":{ 
+         "name":"whitebeta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"whitebeta"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple" 
+      }  
+   }  
+}  

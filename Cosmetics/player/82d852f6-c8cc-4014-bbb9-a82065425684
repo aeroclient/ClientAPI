@@ -1,0 +1,34 @@
+{  
+   "uuid":"82d852f6-c8cc-4014-bbb9-a82065425684", 
+   "username":null,  
+   "cosmetics":{  
+      "white":{  
+         "name":"white",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"white"  
+},  
+      "aero_gold":{  
+         "name":"aero_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_gold"  
+},
+      "purple":{  
+         "name":"purple",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"purple"  
+},  
+      "ac":{  
+         "name":"ac",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"ac"  
+      }  
+   }  
+}  

@@ -1,0 +1,20 @@
+{ 
+   "uuid":"9181b81c-bc2e-4d41-85da-c2d9d54ee62d",
+   "username":null,
+   "cosmetics":{ 
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"red"
+      }
+   }
+}

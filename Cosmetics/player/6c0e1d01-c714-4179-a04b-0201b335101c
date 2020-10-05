@@ -1,0 +1,20 @@
+{ 
+   "uuid":"6c0e1d01-c714-4179-a04b-0201b335101c",
+   "username":null,
+   "cosmetics":{ 
+      "redpink_lava":{ 
+         "name":"redpink_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"redpink_lava"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"red"
+      }
+   }
+}

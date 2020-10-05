@@ -1,0 +1,27 @@
+{  
+   "uuid":"49b433bd-2398-46cf-8670-aea9abaa7f16", 
+   "username":null,  
+   "cosmetics":{  
+      "indigo":{  
+         "name":"indigo",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"indigo"  
+},  
+      "strafe":{  
+         "name":"strafe",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"strafe"  
+},  
+      "strafe_2":{  
+         "name":"strafe_2",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"strafe_2"  
+      }  
+   }  
+}  

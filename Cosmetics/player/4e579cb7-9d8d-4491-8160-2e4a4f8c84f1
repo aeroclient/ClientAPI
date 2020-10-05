@@ -1,0 +1,13 @@
+{  
+   "uuid":"4e579cb7-9d8d-4491-8160-2e4a4f8c84f1", 
+   "username":null,  
+   "cosmetics":{  
+      "blue_lava":{  
+         "name":"blue_lava",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"blue_lava"  
+      }  
+   }  
+}  

@@ -1,0 +1,13 @@
+{  
+   "uuid":"8175e235-cc25-47b0-b6ee-a29130fe0d91", 
+   "username":null,  
+   "cosmetics":{  
+      "strafehcf":{  
+         "name":"strafehcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"strafehcf"  
+      }  
+   }  
+}  
