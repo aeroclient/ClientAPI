@@ -1,0 +1,22 @@
+{
+"banned":{
+    "PLAYER-NAME-1":{
+        "banned": true
+},
+    "PLAYER-NAME-2":{
+        "banned": true
+},
+    "PLAYER-NAME-3":{
+        "banned": true
+},
+    "PLAYER-NAME-4":{
+        "banned": true
+},
+    "PLAYER-NAME-5":{
+        "banned": true
+},
+    "PLAYER-NAME-6":{
+        "banned": true
+    }
+  }
+}
