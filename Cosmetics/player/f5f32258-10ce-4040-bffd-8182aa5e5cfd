@@ -1,0 +1,27 @@
+{  
+   "uuid":"f5f32258-10ce-4040-bffd-8182aa5e5cfd", 
+   "username":null,  
+   "cosmetics":{  
+      "white":{  
+         "name":"white",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"white"  
+},
+      "orange":{  
+         "name":"orange",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"orange"  
+},
+      "orange_lava":{  
+         "name":"orange_lava",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"orange_lava"  
+      }  
+   }  
+}  

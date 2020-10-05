@@ -1,0 +1,13 @@
+{  
+   "uuid":"21544990-bd8f-4190-9a1c-6cf5e15f051c", 
+   "username":null,  
+   "cosmetics":{  
+      "mythhcf":{  
+         "name":"mythhcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"mythhcf"  
+      }  
+   }  
+}  

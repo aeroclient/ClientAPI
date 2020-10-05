@@ -1,0 +1,20 @@
+{  
+   "uuid":"fe02c3a9-6090-46bb-97e4-2751284bb440", 
+   "username":null,  
+   "cosmetics":{  
+      "yellow":{  
+         "name":"yellow",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"yellow"  
+},  
+      "famous":{  
+         "name":"famous",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"famous"  
+      }  
+   }  
+}  
