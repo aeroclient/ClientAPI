@@ -1,7 +1,14 @@
 {  
-   "uuid":"430742ae-9067-495d-b08d-c0c798e88cd7", 
+   "uuid":"32ef014d-0322-4b83-aff9-f65adca9d8f0", 
    "username":null,  
    "cosmetics":{  
+      "white":{  
+         "name":"white",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"white"  
+},  
       "aero_gold":{  
          "name":"aero_gold",  
          "type":"cape",  
