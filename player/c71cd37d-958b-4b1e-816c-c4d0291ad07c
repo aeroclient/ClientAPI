@@ -36,6 +36,13 @@
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"aero_gold"  
+},
+      "green_lava":{  
+         "name":"green_lava",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"green_lava"  
       }  
    }  
 }  
