@@ -6,15 +6,36 @@
          "name":"original_black",  
          "type":"dragon_wings",  
          "scale":0.13,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"original_black"  
 },
-      "twitch":{  
-         "name":"twitch",  
+      "purple":{  
+         "name":"purple",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"purple" 
+},
+      "green":{  
+         "name":"green",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
+         "resourceLocation":"green" 
+},
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
          "resourceLocation":"twitch"  
+},
+      "aero_gold":{  
+         "name":"aero_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"aero_gold"  
       }  
    }  
 }  
