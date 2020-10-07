@@ -27,7 +27,7 @@
          "name":"famous",  
          "type":"cape",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"famous"  
 },  
       "youtube":{  
@@ -36,6 +36,13 @@
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"youtube"  
+},  
+      "aero_galaxy":{  
+         "name":"aero_galaxy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_galaxy"  
       }  
    }  
 }  
