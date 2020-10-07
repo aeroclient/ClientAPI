@@ -2,18 +2,39 @@
    "uuid":"f59d90c4-e223-45e9-914b-7585186e5b1f", 
    "username":null,  
    "cosmetics":{  
+      "indigo":{  
+         "name":"indigo",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"indigo"  
+},
+      "purple":{  
+         "name":"purple",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"purple"  
+},
       "red":{  
          "name":"red",  
          "type":"dragon_wings",  
          "scale":0.13,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"red"  
+},  
+      "famous":{  
+         "name":"famous",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"famous"  
 },  
       "youtube":{  
          "name":"youtube",  
          "type":"cape",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"youtube"  
       }  
    }  
