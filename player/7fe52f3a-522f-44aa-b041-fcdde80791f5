@@ -1,0 +1,13 @@
+{  
+   "uuid":"7fe52f3a-522f-44aa-b041-fcdde80791f5", 
+   "username":null,  
+   "cosmetics":{  
+      "royalehcf_black":{  
+         "name":"royalehcf_black",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"royalehcf_black"  
+      }  
+   }  
+}  
