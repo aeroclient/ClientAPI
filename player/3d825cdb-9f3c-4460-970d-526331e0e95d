@@ -13,7 +13,7 @@
          "name":"original_black",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"original_black"
 },
       "black":{ 
@@ -146,7 +146,7 @@
          "name":"red",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"red"
 },
       "turquoise":{ 
@@ -163,19 +163,33 @@
          "active":false,
          "resourceLocation":"yellow"
 },
-      "packfolder":{ 
-         "name":"packfolder",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"packfolder"
+      "halloween_wings":{ 
+         "name":"halloween_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"halloween"
+},
+      "halloween2_wings":{ 
+         "name":"halloween2_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"halloween2"
 },
       "ac":{ 
          "name":"ac",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"ac"
+},
+      "packfolder":{ 
+         "name":"packfolder",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"packfolder"
 },
       "aero_gold":{ 
          "name":"aero_gold",
@@ -190,6 +204,20 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"blackbeta"
+},
+      "royalehcf_white":{ 
+         "name":"royalehcf_white",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"royalehcf_white"
+},
+      "royalehcf_black":{ 
+         "name":"royalehcf_black",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"royalehcf_black"
 },
       "blue_lava":{ 
          "name":"blue_lava",
@@ -232,6 +260,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"staff"
+},
+      "hcflags":{ 
+         "name":"hcflags",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"hcflags"
 },
       "cici":{ 
          "name":"cici",
@@ -358,6 +393,27 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"tiger"
+},
+      "halloween":{ 
+         "name":"halloween",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween"
+},
+      "halloween2":{ 
+         "name":"halloween2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween2"
+},
+      "aero_galaxy":{ 
+         "name":"aero_galaxy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy"
       }
    }
 }
