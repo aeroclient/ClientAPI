@@ -163,15 +163,15 @@
          "active":false,
          "resourceLocation":"yellow"
 },
-      "halloween":{ 
-         "name":"halloween",
+      "halloween_wings":{ 
+         "name":"halloween_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"halloween"
 },
-      "halloween2":{ 
-         "name":"halloween2",
+      "halloween2_wings":{ 
+         "name":"halloween2_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
