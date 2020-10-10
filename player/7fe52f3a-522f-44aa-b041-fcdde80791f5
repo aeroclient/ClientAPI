@@ -8,6 +8,20 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"royalehcf_black"  
+},
+      "orange_halloween":{  
+         "name":"orange_halloween",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"orange_halloween"  
+},
+      "orange_halloween_2":{  
+         "name":"orange_halloween_2",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"orange_halloween_2"  
       }  
    }  
 }  
