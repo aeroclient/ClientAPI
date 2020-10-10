@@ -6,8 +6,15 @@
          "name":"original_black",  
          "type":"dragon_wings",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"original_black"  
+},
+      "orange_halloween":{  
+         "name":"orange_halloween",  
+         "type":"dragon_wings",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"orange_halloween"  
 },
       "white":{  
          "name":"white",  
