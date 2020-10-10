@@ -15,6 +15,41 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"famous"  
+},  
+      "youtube":{  
+         "name":"youtube",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"youtube"  
+},  
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch"  
+},
+      "halloween":{ 
+         "name":"halloween",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween"
+},
+      "halloween2":{ 
+         "name":"halloween2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween2"
+},
+      "aero_galaxy":{ 
+         "name":"aero_galaxy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy"
       }  
    }  
 }  
