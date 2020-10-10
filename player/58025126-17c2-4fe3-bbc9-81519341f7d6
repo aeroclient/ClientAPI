@@ -163,25 +163,25 @@
          "active":false,
          "resourceLocation":"yellow"
 },
-      "halloween_wings":{ 
-         "name":"halloween_wings",
+      "orange_halloween":{ 
+         "name":"orange_halloween",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"halloween"
+         "resourceLocation":"orange_halloween"
 },
-      "halloween2_wings":{ 
-         "name":"halloween2_wings",
+      "orange_halloween_2":{ 
+         "name":"orange_halloween_2",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"halloween2"
+         "resourceLocation":"orange_halloween_2"
 },
       "ac":{ 
          "name":"ac",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"ac"
 },
       "packfolder":{ 
@@ -414,6 +414,20 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"aero_galaxy"
+},
+      "light_winter":{ 
+         "name":"light_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"light_winter"
+},
+      "dark_winter":{ 
+         "name":"dark_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_winter"
       }
    }
 }
