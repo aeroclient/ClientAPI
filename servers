@@ -1,10 +1,10 @@
 {
     "servers":{
-      "Certix Network":{
-        "address":"certix.cc"
+      "ColdNetwork":{
+        "address":"play.coldnetwork.net"
 },	
-      "TropicalHCF Network":{	
-        "address":"tropicalhcf.net"
+      "Certix":{	
+        "address":"certix.cc"
         }
     }
 }
