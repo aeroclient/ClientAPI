@@ -205,20 +205,6 @@
          "active":false,
          "resourceLocation":"blackbeta"
 },
-      "royalehcf_white":{ 
-         "name":"royalehcf_white",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"royalehcf_white"
-},
-      "royalehcf_black":{ 
-         "name":"royalehcf_black",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"royalehcf_black"
-},
       "blue_lava":{ 
          "name":"blue_lava",
          "type":"cape",
@@ -338,12 +324,12 @@
          "active":false,
          "resourceLocation":"strafe"
 },
-      "strafe_2":{ 
-         "name":"strafe_2",
+      "banned":{ 
+         "name":"banned",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"strafe_2"
+         "resourceLocation":"banned"
 },
       "anticheat_admin":{ 
          "name":"anticheat_admin",
