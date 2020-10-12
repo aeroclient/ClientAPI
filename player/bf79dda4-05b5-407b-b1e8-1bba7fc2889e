@@ -1,0 +1,41 @@
+{  
+   "uuid":"bf79dda4-05b5-407b-b1e8-1bba7fc2889e", 
+   "username":null,  
+   "cosmetics":{  
+      "orange_halloween":{  
+         "name":"orange_halloween",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"orange_halloween"  
+},
+      "orange_halloween_2":{  
+         "name":"orange_halloween_2",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"orange_halloween_2"  
+},  
+      "halloween":{  
+         "name":"halloween",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"halloween"  
+},  
+      "halloween2":{  
+         "name":"halloween2",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"halloween2"  
+},  
+      "aero_galaxy":{  
+         "name":"aero_galaxy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"aero_galaxy" 
+      }  
+   }  
+}  
