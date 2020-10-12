@@ -36,6 +36,20 @@
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"aero_galaxy" 
+},  
+      "light_winter":{  
+         "name":"light_winter",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"light_winter"  
+},  
+      "dark_winter":{  
+         "name":"dark_winter",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"dark_winter" 
       }  
    }  
 }  
