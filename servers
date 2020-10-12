@@ -1,9 +1,9 @@
 {
     "servers":{
-      "ColdNetwork":{
+      "Cold Network":{
         "address":"play.coldnetwork.net"
 },	
-      "Certix":{	
+      "Certix Network":{	
         "address":"certix.cc"
         }
     }
