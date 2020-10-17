@@ -261,26 +261,12 @@
          "active":false,
          "resourceLocation":"chatmod"
 },
-      "strafehcf":{ 
-         "name":"strafehcf",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"strafehcf"
-},
       "strafe":{ 
          "name":"strafe",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"strafe"
-},
-      "strafe_2":{ 
-         "name":"strafe_2",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"strafe_2"
 },
       "anticheat_admin":{ 
          "name":"anticheat_admin",
@@ -300,7 +286,7 @@
          "name":"pizza",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"pizza"
 },
       "weather":{ 
