@@ -2,11 +2,18 @@
    "uuid":"430742ae-9067-495d-b08d-c0c798e88cd7", 
    "username":null,  
    "cosmetics":{  
+      "staff":{  
+         "name":"staff",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"staff"  
+},
       "aero_gold":{  
          "name":"aero_gold",  
          "type":"cape",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"aero_gold"  
       }  
    }  
