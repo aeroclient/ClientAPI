@@ -13,14 +13,14 @@
          "name":"original_black",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"original_black"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"black"
 },
       "blue":{ 
