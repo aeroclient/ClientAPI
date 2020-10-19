@@ -20,8 +20,15 @@
          "name":"green",  
          "type":"dragon_wings",  
          "scale":0.13,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"green" 
+},
+      "weed":{  
+         "name":"weed",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"weed" 
 },
       "twitch":{  
          "name":"twitch",  
