@@ -205,6 +205,20 @@
          "active":false,
          "resourceLocation":"blackbeta"
 },
+      "saturn":{ 
+         "name":"saturn",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"saturn"
+},
+      "macedonia":{ 
+         "name":"macedonia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"macedonia"
+},
       "blue_lava":{ 
          "name":"blue_lava",
          "type":"cape",
