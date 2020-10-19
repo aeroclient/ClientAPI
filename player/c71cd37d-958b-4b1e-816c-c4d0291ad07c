@@ -23,12 +23,12 @@
          "active":false,  
          "resourceLocation":"green" 
 },
-      "weed":{  
-         "name":"weed",  
+      "weedwings":{  
+         "name":"weedwings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"weed" 
+         "resourceLocation":"weedwings" 
 },
       "twitch":{  
          "name":"twitch",  
