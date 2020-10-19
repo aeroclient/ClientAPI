@@ -44,6 +44,13 @@
          "active":false,  
          "resourceLocation":"aero_gold"  
 },
+      "saturn":{  
+         "name":"saturn",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"saturn"  
+},
       "green_lava":{  
          "name":"green_lava",  
          "type":"cape",  
