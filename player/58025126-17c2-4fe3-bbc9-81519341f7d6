@@ -198,6 +198,27 @@
          "active":false,
          "resourceLocation":"aero_gold"
 },
+      "aero_purple":{ 
+         "name":"aero_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_purple"
+},
+      "dark_gold":{ 
+         "name":"dark_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_gold"
+},
+      "dark_purple":{ 
+         "name":"dark_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_purple"
+},
       "blackbeta":{ 
          "name":"blackbeta",
          "type":"cape",
