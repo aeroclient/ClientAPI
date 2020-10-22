@@ -6,8 +6,15 @@
          "name":"white",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"white"
+},
+      "original_black":{ 
+         "name":"original_black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"original_black"
 },
       "black":{ 
          "name":"black",
@@ -156,6 +163,34 @@
          "active":false,
          "resourceLocation":"yellow"
 },
+      "orange_halloween":{ 
+         "name":"orange_halloween",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"orange_halloween"
+},
+      "orange_halloween_2":{ 
+         "name":"orange_halloween_2",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"orange_halloween_2"
+},
+      "ac":{ 
+         "name":"ac",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ac"
+},
+      "packfolder":{ 
+         "name":"packfolder",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"packfolder"
+},
       "aero_gold":{ 
          "name":"aero_gold",
          "type":"cape",
@@ -163,12 +198,47 @@
          "active":false,
          "resourceLocation":"aero_gold"
 },
+      "aero_purple":{ 
+         "name":"aero_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_purple"
+},
+      "dark_gold":{ 
+         "name":"dark_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_gold"
+},
+      "dark_purple":{ 
+         "name":"dark_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_purple"
+},
       "blackbeta":{ 
          "name":"blackbeta",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"blackbeta"
+},
+      "saturn":{ 
+         "name":"saturn",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"saturn"
+},
+      "macedonia":{ 
+         "name":"macedonia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"macedonia"
 },
       "blue_lava":{ 
          "name":"blue_lava",
@@ -204,6 +274,27 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"redpink_lava"
+},
+      "staff":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"staff"
+},
+      "hcflags":{ 
+         "name":"hcflags",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"hcflags"
+},
+      "cici":{ 
+         "name":"cici",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cici"
 },
       "cookie":{ 
          "name":"cookie",
@@ -268,6 +359,13 @@
          "active":false,
          "resourceLocation":"strafe"
 },
+      "banned":{ 
+         "name":"banned",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"banned"
+},
       "anticheat_admin":{ 
          "name":"anticheat_admin",
          "type":"cape",
@@ -286,15 +384,8 @@
          "name":"pizza",
          "type":"cape",
          "scale":0.16,
-         "active":true,
-         "resourceLocation":"pizza"
-},
-      "weather":{ 
-         "name":"weather",
-         "type":"cape",
-         "scale":0.16,
          "active":false,
-         "resourceLocation":"weather"
+         "resourceLocation":"pizza"
 },
       "pasta":{ 
          "name":"pasta",
@@ -316,6 +407,41 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"tiger"
+},
+      "halloween":{ 
+         "name":"halloween",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"halloween"
+},
+      "halloween2":{ 
+         "name":"halloween2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween2"
+},
+      "aero_galaxy":{ 
+         "name":"aero_galaxy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy"
+},
+      "light_winter":{ 
+         "name":"light_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"light_winter"
+},
+      "dark_winter":{ 
+         "name":"dark_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_winter"
       }
    }
 }
