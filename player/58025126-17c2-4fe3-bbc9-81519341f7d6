@@ -387,13 +387,6 @@
          "active":false,
          "resourceLocation":"pizza"
 },
-      "weather":{ 
-         "name":"weather",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"weather"
-},
       "pasta":{ 
          "name":"pasta",
          "type":"cape",
