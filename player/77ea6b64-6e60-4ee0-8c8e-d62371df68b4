@@ -4,15 +4,14 @@
 	"cosmetics": {
 		"twitch": {
 			"name": "twitch",
-			"scale": null,
-			"active": false,
+			"active": true,
 			"type": "cape",
 			"resourceLocation": "twitch"
 		},
 		"purple": {
 			"name": "purple",
-			"scale": null,
-			"active": false,
+			"scale": 0.13,
+			"active": true,
 			"type": "dragon_wings",
 			"resourceLocation": "purple"
 		}
