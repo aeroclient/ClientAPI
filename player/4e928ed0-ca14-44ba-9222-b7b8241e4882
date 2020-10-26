@@ -4,7 +4,7 @@
 	"cosmetics": {
 		"youtube": {
 			"name": "youtube",
-			"scale": null,
+			"scale": 0.16,
 			"active": false,
 			"type": "cape",
 			"resourceLocation": "youtube"
