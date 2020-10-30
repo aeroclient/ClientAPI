@@ -26,8 +26,8 @@
 		"blue": {
 			"name": "blue",
 			"type": "dragon_wings",
-			"scale": 0.90,
-			"active": false,
+			"scale": 0.13,
+			"active": true,
 			"resourceLocation": "blue"
 		},
 		"bone": {
