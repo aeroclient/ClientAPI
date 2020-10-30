@@ -9,13 +9,6 @@
 			"active": false,
 			"resourceLocation": "white"
 		},
-		"Insane_Big_Dragon_Wings": {
-			"name": "blue",
-			"type": "dragon_wings",
-			"scale": 5.3,
-			"active": true,
-			"resourceLocation": "blue"
-		},
 		"original_black": {
 			"name": "original_black",
 			"type": "dragon_wings",
@@ -33,7 +26,7 @@
 		"blue": {
 			"name": "blue",
 			"type": "dragon_wings",
-			"scale": 0.13,
+			"scale": 5.13,
 			"active": false,
 			"resourceLocation": "blue"
 		},
