@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "undefined",
+    "cosmetics": {
+        "ac": {
+            "name": "ac",
+            "scale": "0.16",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "ac"
+        }
+    }
+}
