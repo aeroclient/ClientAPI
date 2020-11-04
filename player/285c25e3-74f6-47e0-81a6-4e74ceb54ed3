@@ -2,12 +2,17 @@
     "name": null,
     "uuid": "285c25e3-74f6-47e0-81a6-4e74ceb54ed3",
     "cosmetics": {
-        "white": {
-            "name": "white",
-            "scale": "0.13",
-            "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "white"
-        }
+        "name": "white",
+        "scale": "0.13",
+        "active": true,
+        "type": "dragon_wings",
+        "resourceLocation": "white"
+    },
+    "ac": {
+        "name": "ac",
+        "scale": "0.16",
+        "active": true,
+        "type": "dragon_wings",
+        "resourceLocation": "ac"
     }
 }
