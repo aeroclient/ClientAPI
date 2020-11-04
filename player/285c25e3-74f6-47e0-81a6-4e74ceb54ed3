@@ -8,11 +8,11 @@
         "type": "dragon_wings",
         "resourceLocation": "white"
     },
-    "ac": {
-        "name": "ac",
-        "scale": "0.16",
+    "black": {
+        "name": "black",
+        "scale": "0.13",
         "active": true,
         "type": "dragon_wings",
-        "resourceLocation": "ac"
+        "resourceLocation": "black"
     }
 }
