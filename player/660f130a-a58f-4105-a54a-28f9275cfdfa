@@ -15,6 +15,13 @@
             "active": true,
             "type": "dragon_wings",
             "resourceLocation": "black"
+        },
+        "yellow": {
+            "name": "yellow",
+            "scale": "0.13",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "yellow"
         }
     }
 }
