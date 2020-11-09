@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "1f341118-0b1f-4753-9fb6-0d04ba46256d",
+    "cosmetics": {
+        "halloween": {
+            "name": "halloween",
+            "scale": "0.16",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "halloween"
+        }
+    }
+}
