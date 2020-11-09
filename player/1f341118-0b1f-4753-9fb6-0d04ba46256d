@@ -8,6 +8,14 @@
             "active": true,
             "type": "dragon_wings",
             "resourceLocation": "bone"
+},
+        "halloween": {
+            "name": "halloween",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "halloween"
+
         }
     }
 }
