@@ -1,0 +1,22 @@
+{
+    "name": null,
+    "uuid": "498ef4d0-b195-4204-b5a3-882dc1fa0713",
+    "cosmetics": {
+        "black": {
+            "name": "black",
+            "scale": "0.13",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "black"
+        },
+        "aero_purple": {
+            "name": "aero_purple",
+            "scale": "0.13",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "aero_purple"
+        
+        
+        }
+    }
+}
