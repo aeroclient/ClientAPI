@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "3d5a16c7-708c-4dfc-b0f5-e8d7bc790a33",
     "cosmetics": {
-        "aero_purple": {
-            "name": "aero_purple",
+        "original_black": {
+            "name": "original_black",
             "scale": "0.16",
             "active": true,
-            "type": "cape",
-            "resourceLocation": "aero_purple"
+            "type": "dragon_wings",
+            "resourceLocation": "original_black"
         }
     }
 }
