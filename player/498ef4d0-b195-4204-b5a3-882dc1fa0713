@@ -9,12 +9,12 @@
             "type": "dragon_wings",
             "resourceLocation": "black"
         },
-        "aero_purple": {
-            "name": "aero_purple",
+        "aero_gold": {
+            "name": "aero_gold",
             "scale": "0.13",
             "active": true,
             "type": "cape",
-            "resourceLocation": "aero_purple"
+            "resourceLocation": "aero_gold"
         
         
         }
