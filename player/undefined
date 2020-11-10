@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "undefined",
     "cosmetics": {
-        "ac": {
-            "name": "ac",
+        "aero_gold": {
+            "name": "aero_gold",
             "scale": "0.16",
             "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "ac"
+            "type": "cape",
+            "resourceLocation": "aero_gold"
         }
     }
 }
