@@ -2,19 +2,12 @@
     "name": null,
     "uuid": "520ac7e9-7eb5-419b-b1fc-88925093a583",
     "cosmetics": {
-        "orange_halloween": {
-            "name": "orange_halloween",
+        "halloween": {
+            "name": "halloween",
             "scale": "0.16",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "orange_halloween"
-        },
-        "halloween": {
-			"name": "halloween",
-			"type": "cape",
-			"scale": 0.16,
-			"active": true,
-			"resourceLocation": "halloween"
-		},
+            "resourceLocation": "halloween"
+        }
     }
 }
