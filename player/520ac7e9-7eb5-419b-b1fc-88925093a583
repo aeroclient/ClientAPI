@@ -8,6 +8,14 @@
             "active": true,
             "type": "cape",
             "resourceLocation": "halloween"
+},
+        "orange": {
+            "name": "orange",
+            "scale": "0.13",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "orange"
+
         }
     }
 }
