@@ -6,7 +6,7 @@
             "name": "halloween",
             "scale": "0.16",
             "active": true,
-            "type": "dragon_wings",
+            "type": "cape",
             "resourceLocation": "halloween"
         }
     }
