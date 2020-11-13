@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "03f40b03-fbcc-4c84-b8db-1d5dbc656d6a",
+    "cosmetics": {
+        "pizza": {
+            "name": "pizza",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "pizza"
+        }
+    }
+}
