@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "b1bea4c0-399d-4b3a-9db4-bc49e91db648",
+    "cosmetics": {
+        "famous": {
+            "name": "famous",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "famous"
+        }
+    }
+}
