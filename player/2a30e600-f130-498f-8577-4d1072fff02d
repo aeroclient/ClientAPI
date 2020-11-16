@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "2a30e600-f130-498f-8577-4d1072fff02d",
     "cosmetics": {
-        "aero_purple": {
-            "name": "aero_purple",
+        "packfolder": {
+            "name": "packfolder",
             "scale": "0.16",
             "active": true,
             "type": "cape",
-            "resourceLocation": "aero_purple"
+            "resourceLocation": "packfolder"
         }
     }
 }
