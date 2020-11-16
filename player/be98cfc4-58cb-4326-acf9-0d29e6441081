@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "be98cfc4-58cb-4326-acf9-0d29e6441081",
+    "cosmetics": {
+        "packfolder": {
+            "name": "packfolder",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "packfolder"
+        }
+    }
+}
