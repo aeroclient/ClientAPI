@@ -1,13 +1,56 @@
-{
-    "name": null,
-    "uuid": "7fe52f3a-522f-44aa-b041-fcdde80791f5",
-    "cosmetics": {
-        "ac": {
-            "name": "ac",
-            "scale": "0.16",
-            "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "ac"
-        }
-    }
-}
+  
+{  
+   "uuid":"7fe52f3a-522f-44aa-b041-fcdde80791f5", 
+   "username":null,  
+   "cosmetics":{  
+      "mintwings":{ 
+         "name":"mintwings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"mintwings"
+},
+        "orange_halloween":{ 
+           "name":"orange_halloween",
+           "type":"dragon_wings",
+           "scale":0.13,
+           "active":false,
+           "resourceLocation":"orange_halloween"
+},
+        "orange_halloween_2":{ 
+           "name":"orange_halloween_2",
+           "type":"dragon_wings",
+           "scale":0.13,
+           "active":false,
+           "resourceLocation":"orange_halloween_2"
+},
+        "halloween":{ 
+           "name":"halloween",
+           "type":"cape",
+           "scale":0.16,
+           "active":true,
+           "resourceLocation":"halloween"
+  },
+        "halloween2":{ 
+           "name":"halloween2",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"halloween2"
+},
+        "light_winter":{ 
+            "name":"light_winter",
+            "type":"cape",
+            "scale":0.16,
+            "active":false,
+            "resourceLocation":"light_winter"
+},
+        "dark_winter":{ 
+           "name":"dark_winter",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"dark_winter"
+      }  
+   }  
+}  
