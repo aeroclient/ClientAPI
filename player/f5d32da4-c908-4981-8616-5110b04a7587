@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "f5d32da4-c908-4981-8616-5110b04a7587",
+    "cosmetics": {
+        "light_winter": {
+            "name": "light_winter",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "light_winter"
+        }
+    }
+}
