@@ -5,9 +5,25 @@
         "ac": {
             "name": "ac",
             "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "ac"
+},
+
+        "purple": {
+            "name": "purple",
+            "scale": "0.13",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "ac"
+            "resourceLocation": "purple"
+},
+
+        "aero_purple": {
+            "name": "aero_purple",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "aero_purple"
         }
     }
 }
