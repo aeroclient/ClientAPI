@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "5d805ba1-d090-49c5-9bad-108ce9b2103e",
+    "cosmetics": {
+        "dark_gold": {
+            "name": "dark_gold",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "dark_gold"
+        }
+    }
+}
