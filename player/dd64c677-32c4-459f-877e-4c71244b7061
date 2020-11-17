@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "dd64c677-32c4-459f-877e-4c71244b7061",
+    "cosmetics": {
+        "staff": {
+            "name": "staff",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "staff"
+        }
+    }
+}
