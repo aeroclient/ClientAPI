@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "dfd1934c-0a82-4e9f-967d-ce8f81a5515e",
     "cosmetics": {
-        "ac": {
-            "name": "ac",
+        "twitch": {
+            "name": "twitch",
             "scale": "0.16",
             "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "ac"
+            "type": "cape",
+            "resourceLocation": "twitch"
         }
     }
 }
