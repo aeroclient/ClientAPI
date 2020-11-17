@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "26aa2bbd-16b9-46c0-a7d6-0c96363b2c84",
+    "cosmetics": {
+        "aero_gold": {
+            "name": "aero_gold",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "aero_gold"
+        }
+    }
+}
