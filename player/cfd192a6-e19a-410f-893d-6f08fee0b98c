@@ -8,6 +8,34 @@
             "active": true,
             "type": "cape",
             "resourceLocation": "aero_gold"
+},
+        "aero_purple": {
+            "name": "aero_purple",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "aero_purple"
+ },
+         "ac": {
+            "name": "ac",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "ac"
+},
+        "halloween": {
+            "name": "halloween",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "halloween"
+},
+         "halloween2": {
+            "name": "halloween2",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "halloween2"
         }
     }
 }
