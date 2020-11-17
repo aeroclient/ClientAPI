@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "dc25cdac-06fc-46ba-9a1b-2a0fc0721799",
+    "cosmetics": {
+        "aero_galaxy": {
+            "name": "aero_galaxy",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "aero_galaxy"
+        }
+    }
+}
