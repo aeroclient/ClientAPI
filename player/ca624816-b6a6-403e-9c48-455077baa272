@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "ca624816-b6a6-403e-9c48-455077baa272",
     "cosmetics": {
-        "red": {
-            "name": "red",
-            "scale": "0.13",
+        "banned": {
+            "name": "banned",
+            "scale": "0.16",
             "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "red"
+            "type": "cape",
+            "resourceLocation": "banned"
         }
     }
 }
