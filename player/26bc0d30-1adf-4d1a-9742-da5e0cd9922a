@@ -10,19 +10,19 @@
          "active":true,
          "resourceLocation":"black"
 },
-        "orange_halloween":{ 
-           "name":"orange_halloween",
-           "type":"dragon_wings",
-           "scale":0.13,
-           "active":false,
-           "resourceLocation":"orange_halloween"
-},
         "orange_halloween_2":{ 
            "name":"orange_halloween_2",
            "type":"dragon_wings",
            "scale":0.13,
            "active":false,
            "resourceLocation":"orange_halloween_2"
+},
+        "aero_galaxy":{ 
+           "name":"aero_galaxy",
+           "type":"cape",
+           "scale":0.13,
+           "active":false,
+           "resourceLocation":"aero_galaxy"
 },
         "halloween":{ 
            "name":"halloween",
@@ -93,6 +93,20 @@
            "scale":0.16,
            "active":false,
            "resourceLocation":"tiger"
+},
+        "orange_lava":{ 
+           "name":"orange_lava",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"orange_lava"
+},
+        "purple_lava":{ 
+           "name":"purple_lava",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"purple_lava"
       }  
    }  
 }  
