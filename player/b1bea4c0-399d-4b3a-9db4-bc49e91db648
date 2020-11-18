@@ -2,12 +2,29 @@
     "name": null,
     "uuid": "b1bea4c0-399d-4b3a-9db4-bc49e91db648",
     "cosmetics": {
-        "light_winter": {
-            "name": "light_winter",
+        "yelllow": {
+            "name": "yellow",
+            "scale": "0.13",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "yellow"
+},
+
+        "famous": {
+            "name": "famous",
             "scale": "0.16",
             "active": true,
             "type": "cape",
+            "resourceLocation": "famous"
+},
+
+        "light_winter": {
+            "name": "light_winter",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
             "resourceLocation": "light_winter"
+
         }
     }
 }
