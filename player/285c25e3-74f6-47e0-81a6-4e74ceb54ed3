@@ -12,7 +12,7 @@
       "original_black":{ 
          "name":"original_black",
          "type":"dragon_wings",
-         "scale":0.16,
+         "scale":0.99,
          "active":true,
          "resourceLocation":"original_black"
 },
@@ -180,266 +180,266 @@
       "ac":{ 
          "name":"ac",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"ac"
 },
       "packfolder":{ 
          "name":"packfolder",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"packfolder"
 },
       "aero_gold":{ 
          "name":"aero_gold",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"aero_gold"
 },
       "aero_purple":{ 
          "name":"aero_purple",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"aero_purple"
 },
       "dark_gold":{ 
          "name":"dark_gold",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"dark_gold"
 },
       "dark_purple":{ 
          "name":"dark_purple",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"dark_purple"
 },
       "blackbeta":{ 
          "name":"blackbeta",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"blackbeta"
 },
       "saturn":{ 
          "name":"saturn",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"saturn"
 },
       "macedonia":{ 
          "name":"macedonia",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"macedonia"
 },
       "blue_lava":{ 
          "name":"blue_lava",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"blue_lava"
 },
       "green_lava":{ 
          "name":"green_lava",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"green_lava"
 },
       "orange_lava":{ 
          "name":"orange_lava",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"orange_lava"
 },
       "purple_lava":{ 
          "name":"purple_lava",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"purple_lava"
 },
       "redpink_lava":{ 
          "name":"redpink_lava",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"redpink_lava"
 },
       "staff":{ 
          "name":"staff",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"staff"
 },
       "hcflags":{ 
          "name":"hcflags",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"hcflags"
 },
       "cici":{ 
          "name":"cici",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"cici"
 },
       "cookie":{ 
          "name":"cookie",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"cookie"
 },
       "famous":{ 
          "name":"famous",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"famous"
 },
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"youtube"
 },
       "pancape":{ 
          "name":"pancape",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"pancape"
 },
       "protected":{ 
          "name":"protected",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"protected"
 },
       "twitch":{ 
          "name":"twitch",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"twitch"
 },
       "whitebeta":{ 
          "name":"whitebeta",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"whitebeta"
 },
       "chatmod":{ 
          "name":"chatmod",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"chatmod"
 },
       "strafe":{ 
          "name":"strafe",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"strafe"
 },
       "banned":{ 
          "name":"banned",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"banned"
 },
       "anticheat_admin":{ 
          "name":"anticheat_admin",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"anticheat_admin"
 },
       "corona_mask":{ 
          "name":"corona_mask",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"corona_mask"
 },
       "pizza":{ 
          "name":"pizza",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"pizza"
 },
       "pasta":{ 
          "name":"pasta",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"pasta"
 },
       "fox":{ 
          "name":"fox",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"fox"
 },
       "tiger":{ 
          "name":"tiger",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"tiger"
 },
       "halloween":{ 
          "name":"halloween",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":true,
          "resourceLocation":"halloween"
 },
       "halloween2":{ 
          "name":"halloween2",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"halloween2"
 },
       "aero_galaxy":{ 
          "name":"aero_galaxy",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"aero_galaxy"
 },
       "light_winter":{ 
          "name":"light_winter",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"light_winter"
 },
       "dark_winter":{ 
          "name":"dark_winter",
          "type":"cape",
-         "scale":0.16,
+         "scale":0.99,
          "active":false,
          "resourceLocation":"dark_winter"
       }
