@@ -9,13 +9,22 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"black"
+
 },
-        "orange_halloween_2":{ 
-           "name":"orange_halloween_2",
+        "ac":{ 
+           "name":"ac",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"ac"
+
+},
+        "lightbluewings":{ 
+           "name":"lightbluewings",
            "type":"dragon_wings",
            "scale":0.13,
            "active":false,
-           "resourceLocation":"orange_halloween_2"
+           "resourceLocation":"lightbluewings"
 },
         "aero_galaxy":{ 
            "name":"aero_galaxy",
