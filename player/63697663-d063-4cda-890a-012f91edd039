@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "63697663-d063-4cda-890a-012f91edd039",
+    "cosmetics": {
+        "youtube": {
+            "name": "youtube",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "youtube"
+        }
+    }
+}
