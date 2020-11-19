@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "uuid": "4d4ca9dd-d849-4a94-b0bb-83dc03966657",
+    "cosmetics": {
+        "twitch": {
+            "name": "twitch",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "twitch"
+        }
+    }
+}
