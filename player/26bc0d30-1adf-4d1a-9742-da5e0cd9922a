@@ -9,15 +9,6 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"black"
-
-},
-        "ac":{ 
-           "name":"ac",
-           "type":"cape",
-           "scale":0.16,
-           "active":false,
-           "resourceLocation":"ac"
-
 },
         "lightbluewings":{ 
            "name":"lightbluewings",
@@ -25,6 +16,27 @@
            "scale":0.13,
            "active":false,
            "resourceLocation":"lightbluewings"
+},
+        "purple":{ 
+           "name":"purple",
+           "type":"dragon_wings",
+           "scale":0.13,
+           "active":false,
+           "resourceLocation":"purple"
+},
+        "indigo":{ 
+           "name":"indigo",
+           "type":"dragon_wings",
+           "scale":0.13,
+           "active":false,
+           "resourceLocation":"indigo"
+},
+        "ac":{ 
+           "name":"ac",
+           "type":"cape",
+           "scale":0.16,
+           "active":false,
+           "resourceLocation":"ac"
 },
         "aero_galaxy":{ 
            "name":"aero_galaxy",
