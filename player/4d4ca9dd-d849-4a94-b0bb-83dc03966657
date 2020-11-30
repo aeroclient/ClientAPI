@@ -2,12 +2,26 @@
     "name": null,
     "uuid": "4d4ca9dd-d849-4a94-b0bb-83dc03966657",
     "cosmetics": {
+        "purple": {
+            "name": "purple",
+            "scale": "0.13",
+            "active": true,
+            "type": "dragon_wings",
+            "resourceLocation": "purple"
+},
         "twitch": {
             "name": "twitch",
             "scale": "0.16",
             "active": true,
             "type": "cape",
             "resourceLocation": "twitch"
+},
+        "light_winter": {
+            "name": "light_winter",
+            "scale": "0.16",
+            "active": false,
+            "type": "cape",
+            "resourceLocation": "light_winter"
         }
     }
 }
