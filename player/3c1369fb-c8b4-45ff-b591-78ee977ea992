@@ -1,0 +1,13 @@
+{  
+   "uuid":"3c1369fb-c8b4-45ff-b591-78ee977ea992", 
+   "username":null,  
+   "cosmetics":{  
+      "certix":{  
+         "name":"certix",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"certix"  
+      }  
+   }  
+}  
