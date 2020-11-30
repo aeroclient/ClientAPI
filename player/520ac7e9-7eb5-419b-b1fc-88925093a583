@@ -1,0 +1,27 @@
+{  
+   "uuid":"520ac7e9-7eb5-419b-b1fc-88925093a583", 
+   "username":null,  
+   "cosmetics":{  
+      "yellow":{  
+         "name":"yellow",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"yellow"  
+},  
+      "halloween":{  
+         "name":"halloween",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"halloween"  
+},  
+      "aero_gold":{  
+         "name":"aero_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_gold"  
+      }  
+   }  
+}  
