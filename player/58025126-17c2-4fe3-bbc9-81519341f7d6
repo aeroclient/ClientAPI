@@ -184,6 +184,13 @@
          "active":false,
          "resourceLocation":"ac"
 },
+      "certix":{ 
+         "name":"certix",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"certix"
+},
       "packfolder":{ 
          "name":"packfolder",
          "type":"cape",
@@ -412,7 +419,7 @@
          "name":"halloween",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"halloween"
 },
       "halloween2":{ 
