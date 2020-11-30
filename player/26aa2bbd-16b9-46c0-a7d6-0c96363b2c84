@@ -1,0 +1,20 @@
+{  
+   "uuid":"26aa2bbd-16b9-46c0-a7d6-0c96363b2c84", 
+   "username":null,  
+   "cosmetics":{  
+      "indigo":{  
+         "name":"indigo",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"indigo"  
+},  
+      "aero_gold":{  
+         "name":"aero_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_gold"  
+      }  
+   }  
+}  
