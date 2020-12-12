@@ -1,13 +1,13 @@
 {  
-   "uuid":"bc40297d-f0eb-441f-9168-95cb38869f13", 
+   "uuid":"c6fe267f-964a-432f-afb8-c3639042d889", 
    "username":null,  
    "cosmetics":{  
-      "pink":{  
-         "name":"pink",  
+      "red":{  
+         "name":"red",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"pink"  
+         "resourceLocation":"red"  
 },  
       "krakenhcf":{  
          "name":"krakenhcf",  
