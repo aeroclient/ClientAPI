@@ -2,12 +2,12 @@
    "uuid":"5306aa8f-01fc-489e-aaf8-b435315cdb54", 
    "username":null,  
    "cosmetics":{  
-      "staff":{  
-         "name":"staff",  
+      "banned":{  
+         "name":"banned",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"staff"  
+         "resourceLocation":"banned"  
       }  
    }  
 }  
