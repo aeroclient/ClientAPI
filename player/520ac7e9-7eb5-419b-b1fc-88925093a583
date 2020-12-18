@@ -8,6 +8,13 @@
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"yellow"  
+},
+      "red":{  
+         "name":"red",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":false,  
+         "resourceLocation":"red"  
 },  
       "halloween":{  
          "name":"halloween",  
