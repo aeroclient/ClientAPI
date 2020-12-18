@@ -177,6 +177,20 @@
          "active":false,
          "resourceLocation":"orange_halloween_2"
 },
+      "celestial_light":{ 
+         "name":"celestial_light",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"celestial_light"
+},
+      "celestial_dark":{ 
+         "name":"celestial_dark",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"celestial_dark"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
@@ -188,7 +202,7 @@
          "name":"certix",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"certix"
 },
       "packfolder":{ 
