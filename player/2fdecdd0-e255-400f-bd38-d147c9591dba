@@ -9,11 +9,18 @@
          "active":true,
          "resourceLocation":"purple"
 },
+      "krakenhcf":{ 
+         "name":"krakenhcf",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"krakenhcf"
+},
       "dinkay":{ 
          "name":"dinkay",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"dinkay"
       }
    }
