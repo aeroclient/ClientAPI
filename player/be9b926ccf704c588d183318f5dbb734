@@ -1,0 +1,20 @@
+{  
+   "uuid":"be9b926ccf704c588d183318f5dbb734", 
+   "username":null,  
+   "cosmetics":{  
+      "yellow":{  
+         "name":"yellow",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"yellow"  
+},  
+      "krakenhcf":{  
+         "name":"krakenhcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"krakenhcf"  
+      }  
+   }  
+}  
