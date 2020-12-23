@@ -1,5 +1,8 @@
 {
     "servers":{
+     "Sanity Network":{	
+       "address":"sanity.gg"
+},
       "KrakenHCF Network":{
         "address":"krakenhcf.com"
 },	
