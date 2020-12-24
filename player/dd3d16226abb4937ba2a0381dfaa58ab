@@ -1,0 +1,13 @@
+{  
+   "uuid":"dd3d16226abb4937ba2a0381dfaa58ab", 
+   "username":null,  
+   "cosmetics":{  
+      "aero_fractal_purple":{  
+         "name":"aero_fractal_purple",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_fractal_purple"  
+      }  
+   }  
+}  
