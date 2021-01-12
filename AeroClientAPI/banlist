@@ -1,5 +1,8 @@
 {
 "banned":{
+    "ArcaneCC":{
+        "banned": true
+},
     "stimpyfan666":{
         "banned": true
 },
