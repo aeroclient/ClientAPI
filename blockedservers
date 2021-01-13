@@ -1,0 +1,28 @@
+{
+    "blockedservers":{
+      "HCRival":{
+        "address":"hcrival.com"
+},	
+      "Cathedral":{	
+        "address":"cathedral.rip"
+},
+      "Aodus":{	
+        "address":"aodus.net"
+},
+      "HCZones":{	
+        "address":"hczones.cf"
+},
+      "HCZones2":{	
+        "address":"hczones.net"
+},
+      "HCZones3":{	
+        "address":"hczones.ml"
+},
+      "Zyro":{	
+        "address":"zyro.wtf"
+},
+      "FiercePvP":{	
+        "address":"fiercepvp.net"
+        }
+    }
+}
