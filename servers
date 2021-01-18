@@ -1,7 +1,7 @@
 {
     "servers":{
       "AnarchyMC Network":{
-        "address":"theanarchymc.com/"
+        "address":"theanarchymc.com"
 },	
       "Certix Network":{	
         "address":"certix.cc"
