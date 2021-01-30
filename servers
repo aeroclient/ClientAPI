@@ -1,5 +1,8 @@
 {
     "servers":{
+      "KiraHCF Network":{
+        "address":"kirah.cf"
+},	
       "AnarchyMC Network":{
         "address":"theanarchymc.com"
 },	
