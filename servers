@@ -3,11 +3,11 @@
       "KiraHCF Network":{
         "address":"kirah.cf"
 },	
-      "AnarchyMC Network":{
-        "address":"theanarchymc.com"
-},	
-      "Certix Network":{	
+      "Certix Network":{
         "address":"certix.cc"
+},	
+      "AnarchyMC Network":{	
+        "address":"theanarchymc.com"
         }
     }
 }
