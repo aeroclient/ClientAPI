@@ -1,0 +1,7 @@
+{
+    "blockedservers":{
+      "Test Network":{
+        "address":"xyz.com"
+        }
+    }
+}
