@@ -1,5 +1,5 @@
 {
-    "servers":{
+    "blockedservers":{
       "Blocked Network":{
         "address":"cathedral.rip"
 },	
