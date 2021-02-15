@@ -184,6 +184,13 @@
          "active":false,
          "resourceLocation":"ac"
 },
+      "blue_c":{ 
+         "name":"blue_c",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blue_c"
+},
       "korea":{ 
          "name":"korea",
          "type":"cape",
