@@ -37,19 +37,33 @@
          "active":false,
          "resourceLocation":"bone_wings"
 },
-      "blue_butterfly_wings":{ 
-         "name":"blue_butterfly_wings",
+      "blue_butterfly":{ 
+         "name":"blue_butterfly",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"blue_butterfly_wings"
+         "resourceLocation":"blue_butterfly"
 },
-      "yellow_butterfly_wings":{ 
-         "name":"yellow_butterfly_wings",
+      "yellow_butterfly":{ 
+         "name":"yellow_butterfly",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"yellow_butterfly_wings"
+         "resourceLocation":"yellow_butterfly"
+},
+      "pink_butterfly":{ 
+         "name":"pink_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pink_butterfly"
+},
+      "rainbow_butterfly":{ 
+         "name":"rainbow_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"rainbow_butterfly"
 },
       "weed_wings":{ 
          "name":"weed_wings",
@@ -57,20 +71,6 @@
          "scale":0.13,
          "active":false,
          "resourceLocation":"weed_wings"
-},
-      "pink_butterfly_wings":{ 
-         "name":"pink_butterfly_wings",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
-         "resourceLocation":"pink_butterfly_wings"
-},
-      "rainbow_butterfly_wings":{ 
-         "name":"rainbow_butterfly_wings",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
-         "resourceLocation":"rainbow_butterfly_wings"
 },
       "light_blue_wings":{ 
          "name":"light_blue_wings",
@@ -163,19 +163,19 @@
          "active":false,
          "resourceLocation":"gold_wings"
 },
-      "orange_halloween_wings":{ 
-         "name":"orange_halloween_wings",
+      "orange_halloween":{ 
+         "name":"orange_halloween",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"orange_halloween_wings"
+         "resourceLocation":"orange_halloween"
 },
-      "purple_halloween_wings":{ 
-         "name":"purple_halloween_wings",
+      "purple_halloween":{ 
+         "name":"purple_halloween",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"purple_halloween_wings"
+         "resourceLocation":"purple_halloween"
 },
       "ac":{ 
          "name":"ac",
@@ -190,6 +190,34 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"korea"
+},
+      "coldnetwork_blue":{ 
+         "name":"coldnetwork_blue",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"coldnetwork_blue"
+},
+      "coldnetwork_snow":{ 
+         "name":"coldnetwork_snow",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"coldnetwork_snow"
+},
+      "aero_galaxy_2":{ 
+         "name":"aero_galaxy_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy_2"
+},
+      "aero_galaxy_3":{ 
+         "name":"aero_galaxy_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy_3"
 },
       "kirahcf":{ 
          "name":"kirahcf",
