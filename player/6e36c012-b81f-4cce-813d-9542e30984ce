@@ -8,6 +8,13 @@
             "active": true,
             "type": "dragon_wings",
             "resourceLocation": "bone_wings"
+},
+        "korea": {
+            "name": "korea",
+            "scale": "0.16",
+            "active": true,
+            "type": "cape",
+            "resourceLocation": "korea"
         }
     }
 }
