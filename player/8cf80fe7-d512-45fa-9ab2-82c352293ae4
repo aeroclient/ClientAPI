@@ -1,13 +1,13 @@
 {  
-   "uuid":"26bc0d30-1adf-4d1a-9742-da5e0cd9922a", 
+   "uuid":"8cf80fe7-d512-45fa-9ab2-82c352293ae4", 
    "username":null,  
    "cosmetics":{  
-      "staff":{  
-         "name":"staff",  
+      "kirahcf":{  
+         "name":"kirahcf",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"staff"  
+         "resourceLocation":"kirahcf"  
       }  
    }  
 }  

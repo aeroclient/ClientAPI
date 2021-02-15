@@ -1,13 +1,13 @@
 {  
-   "uuid":"26bc0d30-1adf-4d1a-9742-da5e0cd9922a", 
+   "uuid":"849ef663-892a-4909-9726-77f7b4538053", 
    "username":null,  
    "cosmetics":{  
-      "staff":{  
-         "name":"staff",  
+      "washimi":{  
+         "name":"washimi",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"staff"  
+         "resourceLocation":"washimi"  
       }  
    }  
 }  
