@@ -51,12 +51,12 @@
          "active":false,
          "resourceLocation":"yellow_butterfly_wings"
 },
-      "weedwings":{ 
-         "name":"weedwings",
+      "weed_wings":{ 
+         "name":"weed_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"weedwings"
+         "resourceLocation":"weed_wings"
 },
       "pink_butterfly_wings":{ 
          "name":"pink_butterfly_wings",
