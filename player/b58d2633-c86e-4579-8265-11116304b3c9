@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "b58d2633-c86e-4579-8265-11116304b3c9",
     "cosmetics": {
-        "packfolder": {
-            "name": "packfolder",
+        "korea": {
+            "name": "korea",
             "scale": "0.16",
             "active": true,
             "type": "cape",
-            "resourceLocation": "packfolder"
+            "resourceLocation": "korea"
         }
     }
 }
