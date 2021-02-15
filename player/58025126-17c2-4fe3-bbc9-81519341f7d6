@@ -328,7 +328,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"staff"
 },
       "arcanecici":{ 
