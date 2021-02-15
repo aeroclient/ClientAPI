@@ -13,7 +13,7 @@
          "name":"original_wings",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"original_wings"
 },
       "black_wings":{ 
@@ -173,8 +173,8 @@
       "purple_halloween":{ 
          "name":"purple_halloween",
          "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
+         "scale":0.16,
+         "active":true,
          "resourceLocation":"purple_halloween"
 },
       "ac":{ 
@@ -202,7 +202,7 @@
          "name":"coldnetwork_blue",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"coldnetwork_blue"
 },
       "coldnetwork_snow":{ 
@@ -328,7 +328,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff"
 },
       "arcanecici":{ 
