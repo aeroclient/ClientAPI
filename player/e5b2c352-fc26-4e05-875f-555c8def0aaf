@@ -1,0 +1,20 @@
+{  
+   "uuid":"e5b2c352-fc26-4e05-875f-555c8def0aaf", 
+   "username":null,  
+   "cosmetics":{  
+      "purple_wings":{  
+         "name":"purple_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"purple_wings"  
+},  
+      "korea":{  
+         "name":"korea",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"korea"  
+      }  
+   }  
+}  
