@@ -324,13 +324,6 @@
          "active":false,
          "resourceLocation":"twitch"
 },
-      "chatmod":{ 
-         "name":"chatmod",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"chatmod"
-},
       "banned":{ 
          "name":"banned",
          "type":"cape",
