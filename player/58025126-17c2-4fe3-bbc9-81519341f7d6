@@ -310,12 +310,12 @@
          "active":false,
          "resourceLocation":"youtube"
 },
-      "protected":{ 
-         "name":"protected",
+      "washimi":{ 
+         "name":"washimi",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"protected"
+         "resourceLocation":"washimi"
 },
       "twitch":{ 
          "name":"twitch",
