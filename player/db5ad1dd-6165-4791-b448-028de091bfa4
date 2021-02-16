@@ -1,0 +1,13 @@
+{  
+   "uuid":"db5ad1dd-6165-4791-b448-028de091bfa4", 
+   "username":null,  
+   "cosmetics":{  
+      "purple_halloween":{  
+         "name":"purple_halloween",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"purple_halloween"  
+      }  
+   }  
+}  
