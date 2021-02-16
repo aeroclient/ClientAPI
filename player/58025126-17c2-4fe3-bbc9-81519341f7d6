@@ -359,19 +359,33 @@
          "active":false,
          "resourceLocation":"youtube"
 },
-      "washimi":{ 
-         "name":"washimi",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"washimi"
-},
       "twitch":{ 
          "name":"twitch",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"twitch"
+},
+      "legacy_youtube":{ 
+         "name":"legacy_youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"legacy_youtube"
+},
+      "legacy_twitch":{ 
+         "name":"legacy_twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"legacy_twitch"
+},
+      "washimi":{ 
+         "name":"washimi",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"washimi"
 },
       "banned":{ 
          "name":"banned",
