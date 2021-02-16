@@ -4,8 +4,8 @@
    "cosmetics":{  
       "purple_halloween":{  
          "name":"purple_halloween",  
-         "type":"cape",  
-         "scale":0.16,  
+         "type":"dragon_wings",  
+         "scale":0.13,  
          "active":true,  
          "resourceLocation":"purple_halloween"  
       }  
