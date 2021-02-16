@@ -16,12 +16,12 @@
          "active":false,  
          "resourceLocation":"red"  
 },
-      "pink_butterfly_wings":{  
-         "name":"pink_butterfly_wings",  
+      "pink_butterfly":{  
+         "name":"pink_butterfly",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"pink_butterfly_wings"  
+         "resourceLocation":"pink_butterfly"  
 },  
       "youtube":{  
          "name":"youtube",  
