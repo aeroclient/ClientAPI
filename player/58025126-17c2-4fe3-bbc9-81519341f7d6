@@ -226,13 +226,6 @@
          "active":false,
          "resourceLocation":"aero_galaxy_3"
 },
-      "kirahcf":{ 
-         "name":"kirahcf",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"kirahcf"
-},
       "certix":{ 
          "name":"certix",
          "type":"cape",
