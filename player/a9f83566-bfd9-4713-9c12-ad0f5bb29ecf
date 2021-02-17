@@ -1,0 +1,20 @@
+{  
+   "uuid":"a9f83566-bfd9-4713-9c12-ad0f5bb29ecf", 
+   "username":null,  
+   "cosmetics":{  
+      "aero_galaxy":{  
+         "name":"aero_galaxy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_galaxy"  
+},
+      "black_legacy":{  
+         "name":"black_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"black_legacy "  
+      }  
+   }  
+}  
