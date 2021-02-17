@@ -22,6 +22,7 @@
          "scale":0.13,
          "active":false,
          "resourceLocation":"black_wings"
+},
       "blue_wings":{ 
          "name":"blue_wings",
          "type":"dragon_wings",
