@@ -1,13 +1,41 @@
-{
-    "name": null,
-    "uuid": "1f341118-0b1f-4753-9fb6-0d04ba46256d",
-    "cosmetics": {
-        "light_winter": {
-            "name": "light_winter",
-            "scale": "0.16",
-            "active": true,
-            "type": "cape",
-            "resourceLocation": "light_winter"
-        }
-    }
-}
+{  
+   "uuid":"1f341118-0b1f-4753-9fb6-0d04ba46256d", 
+   "username":null,  
+   "cosmetics":{  
+      "gold_wings":{  
+         "name":"gold_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"gold_wings"  
+},
+      "dark_gold":{  
+         "name":"dark_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"dark_gold"  
+},
+      "aero_gold":{  
+         "name":"aero_gold",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"aero_gold"  
+},
+      "aero_purple":{  
+         "name":"aero_purple",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"aero_purple"  
+},
+      "halloween":{  
+         "name":"halloween",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"halloween"  
+      }  
+   }  
+}  
