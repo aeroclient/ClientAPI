@@ -2,33 +2,33 @@
    "uuid":"48b105e5-fc96-4729-8813-dd7649b0fbfe", 
    "username":null,  
    "cosmetics":{  
-      "strafehcf":{  
-         "name":"strafehcf",  
+      "blue_c":{  
+         "name":"blue_c",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"strafehcf" 
+         "resourceLocation":"blue_c" 
 },
-      "blackbeta":{ 
-         "name":"blackbeta",
+      "legacy_black":{ 
+         "name":"legacy_black",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"blackbeta"
+         "resourceLocation":"legacy_black"
 },
-      "whitebeta":{ 
-         "name":"whitebeta",
+      "legacy_white":{ 
+         "name":"legacy_white",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"whitebeta"
+         "resourceLocation":"legacy_white"
 },
-      "purple":{ 
-         "name":"purple",
+      "purple_wings":{ 
+         "name":"purple_wings",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"purple" 
+         "resourceLocation":"purple_wings" 
       }  
    }  
 }  

@@ -3,18 +3,18 @@
    "username":null,  
    "cosmetics":{  
       "pink_wings":{  
-         "name":"pink",  
+         "name":"pink_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"pink"  
+         "resourceLocation":"pink_wings"  
 },
       "red_wings":{  
-         "name":"red",  
+         "name":"red_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"red"  
+         "resourceLocation":"red_wings"  
 },
       "pink_butterfly":{  
          "name":"pink_butterfly",  

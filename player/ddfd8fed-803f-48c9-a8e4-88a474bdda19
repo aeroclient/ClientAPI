@@ -9,12 +9,12 @@
          "active":true,  
          "resourceLocation":"aero_gold"  
 },
-      "black":{  
-         "name":"black",  
+      "black_wings":{  
+         "name":"black_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"black"  
+         "resourceLocation":"black_wings"  
       }  
    }  
 }  

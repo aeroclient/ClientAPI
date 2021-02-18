@@ -9,33 +9,33 @@
          "active":true,
          "resourceLocation":"youtube"
 },
-      "red":{ 
-         "name":"red",
+      "red_wings":{ 
+         "name":"red_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"red"
+         "resourceLocation":"red_wings"
 },
-      "indigo":{  
-         "name":"indigo",  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"indigo"  
+         "resourceLocation":"indigo_wings"  
 },  
-      "strafe":{  
-         "name":"strafe",  
+      "aero_galaxy_3":{  
+         "name":"aero_galaxy_3",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"strafe"  
+         "resourceLocation":"aero_galaxy_3"  
 },  
-      "strafe_2":{  
-         "name":"strafe_2",  
+      "aero_galaxy_2":{  
+         "name":"aero_galaxy_2",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"strafe_2"  
+         "resourceLocation":"aero_galaxy_2"  
       }
    }
 }

@@ -2,26 +2,26 @@
    "uuid":"1ced4573-97f1-4567-850e-da33300ecc30", 
    "username":null,  
    "cosmetics":{  
-      "indigo":{  
-         "name":"indigo",  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"indigo"  
+         "resourceLocation":"indigo_wings"  
 },  
-      "strafe":{  
-         "name":"strafe",  
+      "aero_galaxy_3":{  
+         "name":"aero_galaxy_3",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"strafe"  
+         "resourceLocation":"aero_galaxy_3"  
 },  
-      "strafe_2":{  
-         "name":"strafe_2",  
+      "aero_galaxy_2":{  
+         "name":"aero_galaxy_2",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"strafe_2"  
+         "resourceLocation":"aero_galaxy_2"  
       }  
    }  
 }  

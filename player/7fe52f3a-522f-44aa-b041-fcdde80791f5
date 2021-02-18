@@ -3,12 +3,12 @@
    "uuid":"7fe52f3a-522f-44aa-b041-fcdde80791f5", 
    "username":null,  
    "cosmetics":{  
-      "mintwings":{ 
-         "name":"mintwings",
+      "mint_wings":{ 
+         "name":"mint_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"mintwings"
+         "resourceLocation":"mint_wings"
 },
         "orange_halloween":{ 
            "name":"orange_halloween",

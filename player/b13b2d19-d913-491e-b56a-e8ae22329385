@@ -2,12 +2,12 @@
    "uuid":"b13b2d19-d913-491e-b56a-e8ae22329385", 
    "username":null,  
    "cosmetics":{  
-      "red":{  
-         "name":"red",  
+      "red_wings":{  
+         "name":"red_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"red"  
+         "resourceLocation":"red_wings"  
 },  
       "youtube":{  
          "name":"youtube",  

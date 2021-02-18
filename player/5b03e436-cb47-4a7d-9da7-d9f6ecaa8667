@@ -2,12 +2,12 @@
    "uuid":"5b03e436-cb47-4a7d-9da7-d9f6ecaa8667",
    "username":null,
    "cosmetics":{ 
-      "darkblue":{ 
-         "name":"darkblue",
+      "dark_blue_wings":{ 
+         "name":"dark_blue_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"darkblue"
+         "resourceLocation":"dark_blue_wings"
       }
    }
 }

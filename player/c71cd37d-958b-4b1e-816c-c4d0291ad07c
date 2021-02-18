@@ -2,33 +2,33 @@
    "uuid":"c71cd37d-958b-4b1e-816c-c4d0291ad07c", 
    "username":null,  
    "cosmetics":{  
-      "original_black":{  
-         "name":"original_black",  
+      "original_wings":{  
+         "name":"original_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"original_black"  
+         "resourceLocation":"original_wings"  
 },
-      "purple":{  
-         "name":"purple",  
+      "purple_wings":{  
+         "name":"purple_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"purple" 
+         "resourceLocation":"purple_wings" 
 },
-      "green":{  
-         "name":"green",  
+      "green_wings":{  
+         "name":"green_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"green" 
+         "resourceLocation":"green_wings" 
 },
-      "weedwings":{  
-         "name":"weedwings",  
+      "weed_wings":{  
+         "name":"weed_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"weedwings" 
+         "resourceLocation":"weed_wings" 
 },
       "twitch":{  
          "name":"twitch",  

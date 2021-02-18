@@ -2,12 +2,12 @@
    "uuid":"4de99c02-62ec-448c-bac6-81e0cbf9c1c3", 
    "username":null,  
    "cosmetics":{  
-      "original_black":{  
-         "name":"original_black",  
+      "original_wings":{  
+         "name":"original_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"original_black"  
+         "resourceLocation":"original_wings"  
       }  
    }  
 }  

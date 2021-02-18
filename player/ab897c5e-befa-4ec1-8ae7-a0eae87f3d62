@@ -2,12 +2,12 @@
    "uuid":"ab897c5e-befa-4ec1-8ae7-a0eae87f3d62", 
    "username":null,  
    "cosmetics":{ 
-      "pink":{ 
-         "name":"pink",
+      "pink_wings":{ 
+         "name":"pink_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"pink"
+         "resourceLocation":"pink_wings"
 },
       "aero_gold":{ 
          "name":"aero_gold",
@@ -16,26 +16,26 @@
          "active":false,
          "resourceLocation":"aero_gold"
 },
-      "blackbeta":{ 
-         "name":"blackbeta",
+      "legacy_black":{ 
+         "name":"legacy_black",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"blackbeta"
+         "resourceLocation":"legacy_black"
 },
-      "whitebeta":{ 
-         "name":"whitebeta",
+      "legacy_white":{ 
+         "name":"legacy_white",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"whitebeta"
+         "resourceLocation":"legacy_white"
 },
-      "purple":{ 
-         "name":"purple",
+      "purple_wings":{ 
+         "name":"purple_wings",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"purple"
+         "resourceLocation":"purple_wings"
       }
    }
 }

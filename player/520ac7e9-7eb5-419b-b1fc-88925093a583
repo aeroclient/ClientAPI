@@ -2,19 +2,19 @@
    "uuid":"520ac7e9-7eb5-419b-b1fc-88925093a583", 
    "username":null,  
    "cosmetics":{  
-      "yellow":{  
-         "name":"yellow",  
+      "yellow_wings":{  
+         "name":"yellow_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"yellow"  
+         "resourceLocation":"yellow_wings"  
 },
-      "red":{  
-         "name":"red",  
+      "red_wings":{  
+         "name":"red_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"red"  
+         "resourceLocation":"red_wings"  
 },  
       "halloween":{  
          "name":"halloween",  

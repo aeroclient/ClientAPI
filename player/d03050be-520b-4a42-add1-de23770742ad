@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"youtube"
 },
-      "red":{ 
-         "name":"red",
+      "red_wings":{ 
+         "name":"red_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"red"
+         "resourceLocation":"red_wings"
 },
       "twitch":{ 
          "name":"twitch",
@@ -23,12 +23,12 @@
          "active":false,
          "resourceLocation":"twitch"
 },
-      "purple":{ 
-         "name":"purple",
+      "purple_wings":{ 
+         "name":"purple_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"purple"
+         "resourceLocation":"purple_wings"
       }
    }
 }

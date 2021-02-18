@@ -2,12 +2,12 @@
    "uuid":"a4e5f268-5182-418d-9566-bf75192012b8", 
    "username":null,  
    "cosmetics":{  
-      "yellow":{  
-         "name":"yellow",  
+      "yellow_wings":{  
+         "name":"yellow_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"yellow"  
+         "resourceLocation":"yellow_wings"  
 },  
       "famous":{  
          "name":"famous",  

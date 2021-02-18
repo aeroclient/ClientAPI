@@ -380,12 +380,12 @@
          "active":false,
          "resourceLocation":"banned"
 },
-      "anticheat_admin":{ 
-         "name":"anticheat_admin",
+      "dark_gold":{ 
+         "name":"dark_gold",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"anticheat_admin"
+         "resourceLocation":"dark_gold"
 },
       "corona_mask":{ 
          "name":"corona_mask",

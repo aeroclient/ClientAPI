@@ -2,12 +2,12 @@
    "uuid":"d3a4dcc9-6ff4-4b51-8cff-1839a6c47533", 
    "username":null,  
    "cosmetics":{  
-      "purple":{  
-         "name":"purple",  
+      "purple_wings":{  
+         "name":"purple_wings",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"purple"  
+         "resourceLocation":"purple_wings"  
       }  
    }  
 }  

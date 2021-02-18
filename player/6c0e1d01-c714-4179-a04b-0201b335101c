@@ -7,14 +7,13 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"redpink_lava"
-},
-      "red":{ 
-         "name":"red",
+         "resourceLocation":"redpink_lava"},
+      "red_wings":{ 
+         "name":"red_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"red"
+         "resourceLocation":"red_wings"
       }
    }
 }

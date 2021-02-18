@@ -2,19 +2,18 @@
    "uuid":"48b28f48-3f47-4b8a-ae65-0e522b456842", 
    "username":null,  
    "cosmetics":{  
-      "blackbeta":{  
-         "name":"blackbeta",  
+      "legacy_black":{  
+         "name":"legacy_black",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"blackbeta"  
-},
-      "whitebeta":{  
-         "name":"whitebeta",  
+         "resourceLocation":"legacy_black"  },
+      "legacy_white":{  
+         "name":"legacy_white",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"whitebeta"  
+         "resourceLocation":"legacy_white"  
       }  
    }  
 }  

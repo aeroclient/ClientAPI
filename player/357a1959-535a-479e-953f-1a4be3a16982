@@ -2,12 +2,12 @@
    "uuid":"357a1959-535a-479e-953f-1a4be3a16982", 
    "username":null,  
    "cosmetics":{  
-      "indigo":{  
-         "name":"indigo",  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"indigo"  
+         "resourceLocation":"indigo_wings"  
 },  
       "dark_purple":{  
          "name":"dark_purple",  

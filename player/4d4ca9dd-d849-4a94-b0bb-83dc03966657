@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "4d4ca9dd-d849-4a94-b0bb-83dc03966657",
     "cosmetics": {
-        "purple": {
-            "name": "purple",
+        "purple_wings": {
+            "name": "purple_wings",
             "scale": "0.13",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "purple"
+            "resourceLocation": "purple_wings"
 },
         "twitch": {
             "name": "twitch",

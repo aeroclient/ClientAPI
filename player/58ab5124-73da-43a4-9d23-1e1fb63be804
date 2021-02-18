@@ -2,13 +2,12 @@
    "uuid":"58ab5124-73da-43a4-9d23-1e1fb63be804", 
    "username":null,  
    "cosmetics":{  
-      "black":{  
-         "name":"black",  
+      "black_wings":{  
+         "name":"black_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"black"  
-},  
+         "resourceLocation":"black_wings"  },  
       "twitch":{  
          "name":"twitch",  
          "type":"cape",  

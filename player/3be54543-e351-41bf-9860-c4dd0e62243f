@@ -2,12 +2,12 @@
    "uuid":"3be54543-e351-41bf-9860-c4dd0e62243f", 
    "username":null,  
    "cosmetics":{  
-      "purple":{  
-         "name":"purple",  
+      "purple_wings":{  
+         "name":"purple_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"purple"  
+         "resourceLocation":"purple_wings"  
 },  
       "aero_purple":{  
          "name":"aero_purple",  

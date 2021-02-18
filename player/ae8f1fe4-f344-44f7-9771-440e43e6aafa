@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"blue_lava"
 },
-      "darkblue":{ 
-         "name":"darkblue",
+      "dark_blue_wings":{ 
+         "name":"dark_blue_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"darkblue"
+         "resourceLocation":"dark_blue_wings"
       }
    }
 }

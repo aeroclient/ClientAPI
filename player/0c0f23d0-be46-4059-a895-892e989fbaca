@@ -9,14 +9,14 @@
          "active":true,
          "resourceLocation":"vops"
 },
-      "darkpurple":{ 
-         "name":"darkpurple",
+      "purple_halloween":{ 
+         "name":"purple_halloween",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"darkpurple"
+         "resourceLocation":"purple_halloween"
 },
-      "white":{ 
+      "white_wings":{ 
          "name":"white",
          "type":"dragon_wings",
          "scale":0.13,

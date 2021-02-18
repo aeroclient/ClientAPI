@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "498ef4d0-b195-4204-b5a3-882dc1fa0713",
     "cosmetics": {
-        "black": {
-            "name": "black",
+        "black_wings": {
+            "name": "black_wings",
             "scale": "0.13",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "black"
+            "resourceLocation": "black_wings"
         },
         "aero_gold": {
             "name": "aero_gold",

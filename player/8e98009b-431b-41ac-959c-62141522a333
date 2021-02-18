@@ -2,12 +2,12 @@
     "name": null,
     "uuid": "8e98009b-431b-41ac-959c-62141522a333",
     "cosmetics": {
-        "black": {
-            "name": "black",
+        "black_wings": {
+            "name": "black_wings",
             "scale": "0.13",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "black"
+            "resourceLocation": "black_wings"
         }
     }
 }

@@ -10,12 +10,12 @@
             "resourceLocation": "ac"
 },
 
-        "purple": {
-            "name": "purple",
+        "purple_wings": {
+            "name": "purple_wings",
             "scale": "0.13",
             "active": true,
             "type": "dragon_wings",
-            "resourceLocation": "purple"
+            "resourceLocation": "purple_wings"
 },
 
         "aero_purple": {

@@ -2,19 +2,19 @@
    "uuid":"a504e611-45ea-423f-a245-9dfcb17a4bb9", 
    "username":null,  
    "cosmetics":{  
-      "white":{  
+      "white_wings":{  
          "name":"white",  
          "type":"dragon_wings",  
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"white"  
 },
-      "original_black":{  
-         "name":"original_black",  
+      "original_wings":{  
+         "name":"original_wings",  
          "type":"dragon_wings",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"original_black"  
+         "resourceLocation":"original_wings"  
 },
       "royalehcf_black":{  
          "name":"royalehcf_black",  

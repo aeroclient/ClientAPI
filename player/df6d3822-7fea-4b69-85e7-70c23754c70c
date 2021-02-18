@@ -2,12 +2,12 @@
    "uuid":"df6d3822-7fea-4b69-85e7-70c23754c70c",
    "username":null,
    "cosmetics":{ 
-      "green":{ 
-         "name":"green",
+      "green_wings":{ 
+         "name":"green_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"green"
+         "resourceLocation":"green_wings"
       }
    }
 }

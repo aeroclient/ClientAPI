@@ -2,19 +2,19 @@
    "uuid":"9c208b90-d50a-41e1-b082-6b693115672f", 
    "username":null,  
    "cosmetics":{  
-      "white":{  
+      "white_wings":{  
          "name":"white",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"white"  
 },  
-      "strafehcf":{  
-         "name":"strafehcf",  
+      "blue_c":{  
+         "name":"blue_c",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"strafehcf"  
+         "resourceLocation":"blue_c"  
       }  
    }  
 }  

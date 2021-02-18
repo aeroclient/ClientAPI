@@ -380,13 +380,6 @@
          "active":false,
          "resourceLocation":"banned"
 },
-      "anticheat_admin":{ 
-         "name":"anticheat_admin",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"anticheat_admin"
-},
       "corona_mask":{ 
          "name":"corona_mask",
          "type":"cape",

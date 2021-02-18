@@ -2,19 +2,19 @@
    "uuid":"f5f32258-10ce-4040-bffd-8182aa5e5cfd", 
    "username":null,  
    "cosmetics":{  
-      "white":{  
+      "white_wings":{  
          "name":"white",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
          "resourceLocation":"white"  
 },
-      "orange":{  
-         "name":"orange",  
+      "orange_wings":{  
+         "name":"orange_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"orange"  
+         "resourceLocation":"orange_wings"  
 },
       "orange_lava":{  
          "name":"orange_lava",  

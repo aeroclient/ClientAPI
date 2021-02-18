@@ -2,12 +2,12 @@
    "uuid":"1e41840e-f768-4570-8c08-c7265bc91f1b", 
    "username":null,  
    "cosmetics":{  
-      "indigo":{  
-         "name":"indigo",  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"indigo"  
+         "resourceLocation":"indigo_wings"  
 },  
       "aero_gold":{  
          "name":"aero_gold",  

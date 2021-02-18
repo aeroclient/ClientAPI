@@ -2,12 +2,12 @@
    "uuid":"85548813-76ef-44d2-8ad2-8f2745be2b80",
    "username":null,
    "cosmetics":{ 
-      "yellow":{ 
-         "name":"yellow",
+      "yellow_wings":{ 
+         "name":"yellow_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"yellow"
+         "resourceLocation":"yellow_wings"
 },
       "dinkay":{ 
          "name":"dinkay",

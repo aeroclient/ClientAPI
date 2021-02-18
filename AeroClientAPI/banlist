@@ -1,48 +1,6 @@
 {
 	"banned": {
-		"37hz": {
-			"banned": true
-		},
-		"BabyJur": {
-			"banned": true
-		}
-		"B0XIN": {
-			"banned": true
-		},
-		"taa": {
-			"banned": true
-		},
-		"Washimi": {
-			"banned": true
-		},
-		"wtfmarcus": {
-			"banned": true
-		},
-		"Bear_here": {
-			"banned": true
-		},
-		"Lqyal": {
-			"banned": true
-		},
-		"buue": {
-			"banned": true
-		},
-		"NosPvP": {
-			"banned": true
-		},
-		"Eymxnns": {
-			"banned": true
-		},
-		"Verziki": {
-			"banned": true
-		},
-		"Rexarti": {
-			"banned": true
-		},
-		"Bowich": {
-			"banned": true
-		},
-		"DerpIsBad": {
+		"None": {
 			"banned": true
 		}
 	}

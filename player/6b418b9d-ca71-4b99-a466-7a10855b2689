@@ -9,12 +9,12 @@
          "active":false,
          "resourceLocation":"purple_lava"
 },
-      "indigo":{ 
-         "name":"indigo",
+      "indigo_wings":{ 
+         "name":"indigo_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"indigo"
+         "resourceLocation":"indigo_wings"
 },
       "aero_gold":{ 
          "name":"aero_gold",
@@ -23,7 +23,7 @@
          "active":true,
          "resourceLocation":"aero_gold"
 },
-      "white":{ 
+      "white_wings":{ 
          "name":"white",
          "type":"dragon_wings",
          "scale":0.13,

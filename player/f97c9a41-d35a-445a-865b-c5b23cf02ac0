@@ -2,7 +2,7 @@
    "uuid":"f97c9a41-d35a-445a-865b-c5b23cf02ac0", 
    "username":null,  
    "cosmetics":{  
-      "white":{  
+      "white_wings":{  
          "name":"white",  
          "type":"dragon_wings",  
          "scale":0.13,  

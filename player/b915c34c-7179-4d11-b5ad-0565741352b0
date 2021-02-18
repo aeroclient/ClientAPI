@@ -2,40 +2,40 @@
    "uuid":"b915c34c-7179-4d11-b5ad-0565741352b0", 
    "username":null,  
    "cosmetics":{  
-      "red":{  
-         "name":"red",  
+      "red_wings":{  
+         "name":"red_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"red"  
+         "resourceLocation":"red_wings"  
 },  
-      "blue":{  
-         "name":"blue",  
+      "blue_wings":{  
+         "name":"blue_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"blue"  
+         "resourceLocation":"blue_wings"  
 },  
-      "bone":{  
-         "name":"bone",  
+      "bone_wings":{  
+         "name":"bone_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"bone"  
+         "resourceLocation":"bone_wings"  
 },  
-      "rainbowbutterfly":{  
-         "name":"rainbowbutterfly",  
+      "rainbow_butterfly":{   
+         "name":"rainbow_butterfly",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"rainbowbutterfly" 
+         "resourceLocation":"rainbow_butterfly" 
 },  
-      "black":{  
-         "name":"black",  
+      "black_wings":{  
+         "name":"black_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":false,  
-         "resourceLocation":"black" 
+         "resourceLocation":"black_wings" 
 },  
       "youtube":{  
          "name":"youtube",  
@@ -44,12 +44,12 @@
          "active":true,  
          "resourceLocation":"youtube"  
 },  
-      "blackbeta":{  
-         "name":"blackbeta",  
+      "legacy_black":{  
+         "name":"legacy_black",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"blackbeta"  
+         "resourceLocation":"legacy_black"  
 },  
       "cookie":{  
          "name":"cookie",  
@@ -58,12 +58,12 @@
          "active":false,  
          "resourceLocation":"cookie"  
 },  
-      "weather":{  
-         "name":"weather",  
+      "fox":{  
+         "name":"fox",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"weather"  
+         "resourceLocation":"fox"  
       }  
    }  
 }  
