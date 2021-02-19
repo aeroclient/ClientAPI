@@ -184,6 +184,13 @@
          "active":false,
          "resourceLocation":"ac"
 },
+      "mr_criss":{ 
+         "name":"mr_criss",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"mr_criss"
+},
       "blue_c":{ 
          "name":"blue_c",
          "type":"cape",
