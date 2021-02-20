@@ -1,0 +1,20 @@
+{  
+   "uuid":"84ec41f0-fa46-4c16-bd07-668a2728f268", 
+   "username":null,  
+   "cosmetics":{  
+      "coldnetwork_blue":{  
+         "name":"coldnetwork_blue",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"coldnetwork_blue"  
+},
+      "coldnetwork_snow":{  
+         "name":"coldnetwork_snow",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"coldnetwork_snow"  
+      }  
+   }  
+}  
