@@ -1,30 +1,62 @@
-{
-    "name": null,
-    "uuid": "b1bea4c0-399d-4b3a-9db4-bc49e91db648",
-    "cosmetics": {
-        "yellow_wings": {
-            "name": "yellow_wings",
-            "scale": "0.13",
-            "active": true,
-            "type": "dragon_wings",
-            "resourceLocation": "yellow_wings"
-},
-
-        "famous": {
-            "name": "famous",
-            "scale": "0.16",
-            "active": true,
-            "type": "cape",
-            "resourceLocation": "famous"
-},
-
-        "light_winter": {
-            "name": "light_winter",
-            "scale": "0.16",
-            "active": false,
-            "type": "cape",
-            "resourceLocation": "light_winter"
-
-        }
-    }
-}
+{  
+   "uuid":"b1bea4c0-399d-4b3a-9db4-bc49e91db648", 
+   "username":null,  
+   "cosmetics":{  
+      "gold_wings":{  
+         "name":"gold_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"gold_wings"  
+},  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"indigo_wings"  
+},  
+      "red_wings":{  
+         "name":"red_wings",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"red_wings"  
+},  
+      "famous":{  
+         "name":"famous",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"famous"  
+},  
+      "youtube":{  
+         "name":"youtube",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"youtube"  
+},  
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch"  
+},  
+      "youtube_legacy":{  
+         "name":"youtube_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"youtube_legacy"  
+},  
+      "twitch_legacy":{  
+         "name":"twitch_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch_legacy"  
+      }  
+   }  
+}  
