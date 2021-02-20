@@ -1,0 +1,13 @@
+{  
+   "uuid":"83c98721-6c66-438e-bf3c-2e1d0dd6d469", 
+   "username":null,  
+   "cosmetics":{  
+      "pizza":{  
+         "name":"pizza",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"pizza"  
+      }  
+   }  
+}  
