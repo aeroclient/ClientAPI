@@ -1,0 +1,20 @@
+{  
+   "uuid":"f8773b40-2aae-4d9d-8490-46e3438259ce", 
+   "username":null,  
+   "cosmetics":{  
+      "red_wings":{  
+         "name":"red_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"red_wings"  
+},  
+      "blue_c":{  
+         "name":"blue_c",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"blue_c"  
+      }  
+   }  
+}  
