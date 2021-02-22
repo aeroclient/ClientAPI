@@ -209,7 +209,7 @@
          "name":"coldnetwork_blue",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"coldnetwork_blue"
 },
       "coldnetwork_snow":{ 
@@ -323,6 +323,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"staff"
+},
+      "staff_dark":{ 
+         "name":"staff_dark",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"staff_dark"
 },
       "arcanecici":{ 
          "name":"arcanecici",
