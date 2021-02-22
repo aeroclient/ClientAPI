@@ -1,5 +1,5 @@
 {  
-   "uuid":"db5ad1dd-6165-4791-b448-028de091bfa4", 
+   "uuid":"52b32ffd-c8ee-45b8-98e3-4f945be34878", 
    "username":null,  
    "cosmetics":{  
       "white_wings":{ 
@@ -223,7 +223,7 @@
          "name":"dark_gold",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"dark_gold"
 },
       "dark_purple":{ 
@@ -342,7 +342,7 @@
          "name":"aero_galaxy",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"aero_galaxy"
 },
       "light_winter":{ 
