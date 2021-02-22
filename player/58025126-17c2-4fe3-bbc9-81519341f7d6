@@ -321,8 +321,15 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff"
+},
+      "staff_dark":{ 
+         "name":"staff_dark",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"staff_dark"
 },
       "arcanecici":{ 
          "name":"arcanecici",
