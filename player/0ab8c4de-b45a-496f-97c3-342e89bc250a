@@ -1,0 +1,13 @@
+{  
+   "uuid":"0ab8c4de-b45a-496f-97c3-342e89bc250a", 
+   "username":null,  
+   "cosmetics":{  
+      "coldnetwork_blue":{  
+         "name":"coldnetwork_blue",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"coldnetwork_blue"  
+      }  
+   }  
+}  
