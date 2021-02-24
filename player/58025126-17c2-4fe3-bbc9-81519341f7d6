@@ -328,7 +328,7 @@
          "name":"staff_dark",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff_dark"
 },
       "arcanecici":{ 
@@ -391,7 +391,7 @@
          "name":"banned",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"banned"
 },
       "corona_mask":{ 
