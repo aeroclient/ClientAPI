@@ -2,12 +2,12 @@
    "uuid":"5b09ef68-2a49-4bf8-95ec-b2988e00b7fa", 
    "username":null,  
    "cosmetics":{  
-      "royalehcf_black":{  
-         "name":"royalehcf_black",  
+      "aero_galaxy_3":{  
+         "name":"aero_galaxy_3",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"royalehcf_black"  
+         "resourceLocation":"aero_galaxy_3"  
       }  
    }  
 }  
