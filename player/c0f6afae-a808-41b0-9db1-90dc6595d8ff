@@ -2,12 +2,12 @@
    "uuid":"c0f6afae-a808-41b0-9db1-90dc6595d8ff", 
    "username":null,  
    "cosmetics":{  
-      "aero_purple":{  
-         "name":"aero_purple",  
+      "staff":{  
+         "name":"staff",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"aero_purple"  
+         "resourceLocation":"staff"  
       }  
    }  
 }  
