@@ -223,7 +223,7 @@
          "name":"dark_gold",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"dark_gold"
 },
       "dark_purple":{ 
