@@ -2,54 +2,12 @@
    "uuid":"3b28881a-6362-435a-9d68-6f1cb7494c13", 
    "username":null,  
    "cosmetics":{  
-      "aero_purple":{  
-         "name":"aero_purple",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"aero_purple"  
-},  
-      "hallowen2":{  
-         "name":"hallowen2",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"hallowen2"  
-},  
-      "legacy_black":{  
-         "name":"legacy_black",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"legacy_black"  
-},  
-      "corona_mask":{  
-         "name":"corona_mask",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"corona_mask"  
-},  
-      "aero_fractal_purple":{  
-         "name":"aero_fractal_purple",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"aero_fractal_purple"  
-},  
-      "blue_c":{  
-         "name":"blue_c",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":false,  
-         "resourceLocation":"blue_c"  
-},  
-      "pizza":{  
-         "name":"pizza",  
+      "banned":{  
+         "name":"banned",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"pizza"  
+         "resourceLocation":"banned"  
       }  
    }  
 }  
