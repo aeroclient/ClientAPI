@@ -173,9 +173,23 @@
       "purple_halloween":{ 
          "name":"purple_halloween",
          "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple_halloween"
+},
+      "owner_wings":{ 
+         "name":"owner_wings",
+         "type":"dragon_wings",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"purple_halloween"
+         "resourceLocation":"owner_wings"
+},
+      "owner":{ 
+         "name":"owner",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"owner"
 },
       "ac":{ 
          "name":"ac",
@@ -328,7 +342,7 @@
          "name":"staff_dark",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"staff_dark"
 },
       "arcanecici":{ 
