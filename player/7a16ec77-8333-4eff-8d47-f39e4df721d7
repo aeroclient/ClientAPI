@@ -184,12 +184,12 @@
          "active":false,
          "resourceLocation":"youtube"
 },
-      "youtube_legacy":{ 
-         "name":"youtube_legacy",
+      "legacy_youtube":{ 
+         "name":"legacy_youtube",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"youtube_legacy"
+         "resourceLocation":"legacy_youtube"
 },
       "ac":{ 
          "name":"ac",
