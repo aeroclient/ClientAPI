@@ -177,20 +177,6 @@
          "active":false,
          "resourceLocation":"purple_halloween"
 },
-      "owner_wings":{ 
-         "name":"owner_wings",
-         "type":"dragon_wings",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"owner_wings"
-},
-      "owner":{ 
-         "name":"owner",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"owner"
-},
       "ac":{ 
          "name":"ac",
          "type":"cape",
@@ -345,13 +331,6 @@
          "active":false,
          "resourceLocation":"cookie"
 },
-      "famous":{ 
-         "name":"famous",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"famous"
-},
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
@@ -359,26 +338,12 @@
          "active":true,
          "resourceLocation":"youtube"
 },
-      "twitch":{ 
-         "name":"twitch",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"twitch"
-},
       "legacy_youtube":{ 
          "name":"legacy_youtube",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"legacy_youtube"
-},
-      "legacy_twitch":{ 
-         "name":"legacy_twitch",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"legacy_twitch"
 },
       "washimi":{ 
          "name":"washimi",
