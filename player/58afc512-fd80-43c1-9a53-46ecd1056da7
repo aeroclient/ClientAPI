@@ -7,7 +7,8 @@
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"red_wings"  },  
+         "resourceLocation":"red_wings"  
+},  
       "youtube":{  
          "name":"youtube",  
          "type":"cape",  
