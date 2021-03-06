@@ -2,12 +2,33 @@
    "uuid":"58afc512-fd80-43c1-9a53-46ecd1056da7", 
    "username":null,  
    "cosmetics":{  
-      "red_wings":{  
-         "name":"red_wings",  
+      "gold_wings":{  
+         "name":"gold_wings",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
+         "resourceLocation":"gold_wings"  
+},  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"indigo_wings"  
+},  
+      "red_wings":{  
+         "name":"red_wings",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
          "resourceLocation":"red_wings"  
+},  
+      "famous":{  
+         "name":"famous",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"famous"  
 },  
       "youtube":{  
          "name":"youtube",  
@@ -15,6 +36,27 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"youtube"  
+},  
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch"  
+},  
+      "youtube_legacy":{  
+         "name":"youtube_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"youtube_legacy"  
+},  
+      "twitch_legacy":{  
+         "name":"twitch_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch_legacy"  
       }  
    }  
 }  
