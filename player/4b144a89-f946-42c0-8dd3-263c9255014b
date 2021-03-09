@@ -184,12 +184,12 @@
          "active":false,
          "resourceLocation":"ac"
 },
-      "blue_c":{ 
-         "name":"blue_c",
+      "banned":{ 
+         "name":"banned",
          "type":"cape",
          "scale":0.16,
-         "active":false,
-         "resourceLocation":"blue_c"
+         "active":true,
+         "resourceLocation":"banned"
 },
       "aero_galaxy_2":{ 
          "name":"aero_galaxy_2",
@@ -349,7 +349,7 @@
          "name":"light_winter",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"light_winter"
 },
       "dark_winter":{ 
