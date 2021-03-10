@@ -198,19 +198,19 @@
          "active":false,  
          "resourceLocation":"twitch"  
 },  
-      "youtube_legacy":{  
-         "name":"youtube_legacy",  
+      "legacy_youtube":{  
+         "name":"legacy_youtube",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"youtube_legacy"  
+         "resourceLocation":"legacy_youtube"  
 },  
-      "twitch_legacy":{  
-         "name":"twitch_legacy",  
+      "legacy_twitch":{  
+         "name":"legacy_twitch",  
          "type":"cape",  
          "scale":0.16,  
          "active":false,  
-         "resourceLocation":"twitch_legacy"  
+         "resourceLocation":"legacy_twitch"  
 },
       "ac":{ 
          "name":"ac",
