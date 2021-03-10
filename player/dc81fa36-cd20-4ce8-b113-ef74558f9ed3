@@ -1,0 +1,13 @@
+{  
+   "uuid":"dc81fa36-cd20-4ce8-b113-ef74558f9ed3", 
+   "username":null,  
+   "cosmetics":{  
+      "banned":{  
+         "name":"banned",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"banned"  
+      }  
+   }  
+}  
