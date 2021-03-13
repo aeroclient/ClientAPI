@@ -477,6 +477,48 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"dark_winter"
+},
+      "france":{ 
+         "name":"france",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"france"
+},
+      "russia":{ 
+         "name":"russia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"russia"
+},
+      "heart":{ 
+         "name":"heart",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart"
+},
+      "celestial":{ 
+         "name":"celestial",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"celestial"
+},
+      "comet":{ 
+         "name":"comet",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"comet"
+},
+      "hayden":{ 
+         "name":"hayden",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"hayden"
       }
    }
 }
