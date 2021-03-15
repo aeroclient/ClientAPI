@@ -1,0 +1,13 @@
+{  
+   "uuid":"ff1e9505-12af-42a8-ac85-0e7d71b5e668", 
+   "username":null,  
+   "cosmetics":{  
+      "macedonia":{  
+         "name":"macedonia",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"macedonia"  
+      }  
+   }  
+}  
