@@ -492,6 +492,13 @@
          "active":false,
          "resourceLocation":"russia"
 },
+      "estonia":{ 
+         "name":"estonia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"estonia"
+},
       "heart":{ 
          "name":"heart",
          "type":"cape",
