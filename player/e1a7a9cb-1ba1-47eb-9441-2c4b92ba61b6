@@ -1,0 +1,27 @@
+{  
+   "uuid":"e1a7a9cb-1ba1-47eb-9441-2c4b92ba61b6", 
+   "username":null,  
+   "cosmetics":{  
+      "indigo_wings":{  
+         "name":"indigo_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"indigo_wings"  
+},  
+      "twitch":{  
+         "name":"twitch",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"twitch"  
+},  
+      "twitch_legacy":{  
+         "name":"twitch_legacy",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"twitch_legacy"  
+      }  
+   }  
+}  
