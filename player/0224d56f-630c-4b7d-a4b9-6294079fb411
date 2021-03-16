@@ -177,6 +177,13 @@
          "active":false,
          "resourceLocation":"purple_halloween"
 },
+      "2016":{ 
+         "name":"2016",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"2016"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
