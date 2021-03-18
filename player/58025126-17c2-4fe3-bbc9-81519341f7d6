@@ -226,19 +226,26 @@
          "active":false,
          "resourceLocation":"korea"
 },
-      "coldnetwork_blue":{ 
-         "name":"coldnetwork_blue",
+      "ultra_duck":{ 
+         "name":"ultra_duck",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"coldnetwork_blue"
+         "resourceLocation":"ultra_duck"
 },
-      "coldnetwork_snow":{ 
-         "name":"coldnetwork_snow",
+      "vaporwave":{ 
+         "name":"vaporwave",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"coldnetwork_snow"
+         "resourceLocation":"vaporwave"
+},
+      "guffah":{ 
+         "name":"guffah",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"guffah"
 },
       "aero_galaxy_2":{ 
          "name":"aero_galaxy_2",
