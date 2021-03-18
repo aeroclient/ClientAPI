@@ -1,0 +1,13 @@
+{  
+   "uuid":"60399b34-0641-49bd-805c-e9aee67c3a7a", 
+   "username":null,  
+   "cosmetics":{  
+      "france":{  
+         "name":"france",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"france"  
+      }  
+   }  
+}  
