@@ -1,8 +1,5 @@
 {
     "servers":{
-      "Cold Network":{
-        "address":"play.coldnetwork.net"
-},	
       "Certix Network":{
         "address":"certix.cc"
         }
