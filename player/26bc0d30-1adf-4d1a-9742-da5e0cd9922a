@@ -177,6 +177,13 @@
          "active":true,
          "resourceLocation":"purple_halloween"
 },
+      "guffah":{ 
+         "name":"guffah",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"guffah"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
