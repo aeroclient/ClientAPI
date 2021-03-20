@@ -1,19 +1,19 @@
-{ 
-   "uuid":"2b012bf2-30ed-4d8c-91f9-bf173a781579",
-   "username":null,
-   "cosmetics":{ 
-         "white_wings":{ 
-         "name":"white",
+{  
+   "uuid":"2b012bf2-30ed-4d8c-91f9-bf173a781579", 
+   "username":null,  
+   "cosmetics":{  
+      "white_wings":{ 
+         "name":"white_wings",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"white"
+         "resourceLocation":"white_wings"
 },
       "original_wings":{ 
          "name":"original_wings",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"original_wings"
 },
       "black_wings":{ 
@@ -51,26 +51,26 @@
          "active":false,
          "resourceLocation":"yellow_butterfly"
 },
-      "weed_wings":{ 
-         "name":"weed_wings",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
-         "resourceLocation":"weed_wings"
-},
-      "pink_butterfly":{  
+      "pink_butterfly":{ 
          "name":"pink_butterfly",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"pink_butterfly"
 },
-      "rainbow_butterfly":{  
+      "rainbow_butterfly":{ 
          "name":"rainbow_butterfly",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"rainbow_butterfly"
+},
+      "weed_wings":{ 
+         "name":"weed_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"weed_wings"
 },
       "light_blue_wings":{ 
          "name":"light_blue_wings",
@@ -99,13 +99,6 @@
          "scale":0.13,
          "active":false,
          "resourceLocation":"dark_blue_wings"
-},
-      "purple_halloween":{ 
-         "name":"purple_halloween",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
-         "resourceLocation":"purple_halloween"
 },
       "green_wings":{ 
          "name":"green_wings",
@@ -163,12 +156,103 @@
          "active":false,
          "resourceLocation":"yellow_wings"
 },
-      "youtube":{ 
-         "name":"youtube",
+      "gold_wings":{ 
+         "name":"gold_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"gold_wings"
+},
+      "orange_halloween":{ 
+         "name":"orange_halloween",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"orange_halloween"
+},
+      "purple_halloween":{ 
+         "name":"purple_halloween",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple_halloween"
+},
+      "partner":{ 
+         "name":"partner",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"youtube"
+         "resourceLocation":"partner"
+},
+      "ac":{ 
+         "name":"ac",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ac"
+},
+      "blue_c":{ 
+         "name":"blue_c",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blue_c"
+},
+      "aero_galaxy_2":{ 
+         "name":"aero_galaxy_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy_2"
+},
+      "aero_galaxy_3":{ 
+         "name":"aero_galaxy_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy_3"
+},
+      "aero_gold":{ 
+         "name":"aero_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_gold"
+},
+      "aero_purple":{ 
+         "name":"aero_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_purple"
+},
+      "dark_gold":{ 
+         "name":"dark_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_gold"
+},
+      "dark_purple":{ 
+         "name":"dark_purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_purple"
+},
+      "black_legacy":{ 
+         "name":"black_legacy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"black_legacy"
+},
+      "white_legacy":{ 
+         "name":"white_legacy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"white_legacy"
 },
       "blue_lava":{ 
          "name":"blue_lava",
@@ -176,6 +260,111 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"blue_lava"
+},
+      "green_lava":{ 
+         "name":"green_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"green_lava"
+},
+      "orange_lava":{ 
+         "name":"orange_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"orange_lava"
+},
+      "purple_lava":{ 
+         "name":"purple_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple_lava"
+},
+      "redpink_lava":{ 
+         "name":"redpink_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"redpink_lava"
+},
+      "cookie":{ 
+         "name":"cookie",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cookie"
+},
+      "corona_mask":{ 
+         "name":"corona_mask",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"corona_mask"
+},
+      "pizza":{ 
+         "name":"pizza",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pizza"
+},
+      "pasta":{ 
+         "name":"pasta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pasta"
+},
+      "fox":{ 
+         "name":"fox",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fox"
+},
+      "tiger":{ 
+         "name":"tiger",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"tiger"
+},
+      "halloween":{ 
+         "name":"halloween",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween"
+},
+      "halloween2":{ 
+         "name":"halloween2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"halloween2"
+},
+      "aero_galaxy":{ 
+         "name":"aero_galaxy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_galaxy"
+},
+      "light_winter":{ 
+         "name":"light_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"light_winter"
+},
+      "dark_winter":{ 
+         "name":"dark_winter",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"dark_winter"
       }
    }
 }
