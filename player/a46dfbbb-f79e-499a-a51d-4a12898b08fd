@@ -177,6 +177,13 @@
          "active":false,
          "resourceLocation":"purple_halloween"
 },
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"youtube"
+},
       "ac":{ 
          "name":"ac",
          "type":"cape",
