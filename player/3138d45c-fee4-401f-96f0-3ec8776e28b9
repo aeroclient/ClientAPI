@@ -139,7 +139,7 @@
          "name":"red_wings",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":false,
+         "active":true,
          "resourceLocation":"red_wings"
 },
       "turquoise_wings":{ 
@@ -174,8 +174,15 @@
          "name":"purple_halloween",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"purple_halloween"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"youtube"
 },
       "ac":{ 
          "name":"ac",
@@ -209,7 +216,7 @@
          "name":"aero_gold",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"aero_gold"
 },
       "aero_purple":{ 
