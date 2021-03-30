@@ -352,13 +352,6 @@
          "active":false,
          "resourceLocation":"light_winter"
 },
-      "staff"
-         "name":"staff",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"staff"
-},
       "dark_winter":{ 
          "name":"dark_winter",
          "type":"cape",
