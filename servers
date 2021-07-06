@@ -1,7 +1,9 @@
 {
     "servers":{
-      "Certix Network":{
+      "Certix Network":
         "address":"certix.cc"
+         "Aero Network":{
+        "address":"play.Aeroclient.tk"
         }
     }
 }
