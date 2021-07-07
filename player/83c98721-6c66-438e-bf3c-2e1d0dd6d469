@@ -38,11 +38,11 @@
          "resourceLocation":"bone_wings"
 },
       "blue_butterfly":{ 
-         "name":"blue_butterfly_wings",
+         "name":"blue_butterfly",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
-         "resourceLocation":"blue_butterfly"
+         "resourceLocation":"blue_butterfly_wings"
 },
       "yellow_butterfly":{ 
          "name":"yellow_butterfly",
