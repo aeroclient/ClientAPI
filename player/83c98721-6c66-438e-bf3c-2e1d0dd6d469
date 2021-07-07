@@ -173,7 +173,7 @@
       "purple_halloween":{ 
          "name":"purple_halloween",
          "type":"dragon_wings",
-         "scale":0.13,
+         "scale":0.16,
          "active":false,
          "resourceLocation":"purple_halloween"
 },
