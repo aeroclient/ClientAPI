@@ -547,13 +547,7 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"hayden"
-},
-      "Aero Fractal":{ 
-         "name":"Aero Fractal",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"aero_fractal"
+        }
       }
    }
 }
