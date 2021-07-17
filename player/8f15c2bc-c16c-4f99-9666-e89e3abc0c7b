@@ -6,6 +6,6 @@
          "name":"2013",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"2013"
 },
