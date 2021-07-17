@@ -198,6 +198,13 @@
          "active":false,
          "resourceLocation":"2016"
 },
+      "2013":{ 
+         "name":"2013",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"2013"
+},
       "partner":{ 
          "name":"partner",
          "type":"cape",
