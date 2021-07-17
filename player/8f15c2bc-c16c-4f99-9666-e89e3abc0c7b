@@ -1,0 +1,11 @@
+{ 
+   "uuid":"8f15c2bc-c16c-4f99-9666-e89e3abc0c7b",
+   "username":null,
+   "cosmetics":{ 
+         "2013":{ 
+         "name":"2013",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"2013"
+},
