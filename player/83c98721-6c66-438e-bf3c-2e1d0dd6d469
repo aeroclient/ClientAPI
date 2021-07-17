@@ -212,6 +212,13 @@
          "active":false,
          "resourceLocation":"2013"
 },
+      "2019":{ 
+         "name":"2019",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"2019"
+},
       "partner":{ 
          "name":"partner",
          "type":"cape",
