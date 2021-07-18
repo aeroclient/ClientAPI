@@ -219,6 +219,13 @@
          "active":false,
          "resourceLocation":"2019"
 },
+      "Birthday":{ 
+         "name":"Birthday",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Birthday"
+},
       "partner":{ 
          "name":"partner",
          "type":"cape",
