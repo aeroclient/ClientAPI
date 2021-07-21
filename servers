@@ -1,7 +1,7 @@
 {
     "servers":{
-      "Certix Network":{
-        "address":"certix.cc"
+      "Arcane":{
+        "address":"arcane.cc"
         }
     }
 }
