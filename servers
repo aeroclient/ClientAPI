@@ -3,5 +3,8 @@
       "Certix Network":{
         "address":"certix.cc"
         }
+       "Aero Network":{
+        "address":"play.aeroclient.net"
+        }
     }
 }
