@@ -2,6 +2,9 @@
     "servers":{
       "Certix Network":{
         "address":"certix.cc"
+},
+      "CavePvP":{
+        "address":"cavepvp.org"
         }
     }
 }
