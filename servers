@@ -1,6 +1,6 @@
 {
     "servers":{
-      "Certix Network"
+      "Certix Network":{
         "address":"certix.cc"
         }
     }
