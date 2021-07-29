@@ -5,6 +5,12 @@
 },
       "CavePvP":{
         "address":"cavepvp.org"
+},
+      "Arcane":{
+        "address":"arcane.cc"
+},
+      "VeltPvP":{
+        "address":"veltpvp.com"
         }
     }
 }
