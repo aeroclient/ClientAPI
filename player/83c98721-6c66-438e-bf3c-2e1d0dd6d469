@@ -317,6 +317,13 @@
          "active":false,
          "resourceLocation":"aero_purple"
 },
+      "aero_purple_old":{ 
+         "name":"aero_purple_old",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"aero_purple_old"
+},
       "dark_gold":{ 
          "name":"dark_gold",
          "type":"cape",
