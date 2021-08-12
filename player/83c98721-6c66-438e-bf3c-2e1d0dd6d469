@@ -240,6 +240,13 @@
          "active":false,
          "resourceLocation":"ac"
 },
+      "CheatbreakerRed":{ 
+         "name":"CB_Red",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cb_red"
+},
       "mr_criss":{ 
          "name":"mr_criss",
          "type":"cape",
