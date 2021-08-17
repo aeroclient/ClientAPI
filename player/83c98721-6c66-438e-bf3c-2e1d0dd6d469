@@ -190,6 +190,13 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"owner"
+ },
+      "Arcane 2.0":{ 
+         "name":"Arcane 2.0",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"arcane"
 },
       "2016":{ 
          "name":"2016",
