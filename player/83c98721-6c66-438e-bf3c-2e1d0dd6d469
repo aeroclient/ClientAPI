@@ -196,7 +196,7 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"arcane"
+         "resourceLocation":"Arcane"
 },
       "2016":{ 
          "name":"2016",
@@ -252,7 +252,7 @@
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"cb_red"
+         "resourceLocation":"cbred"
 },
       "mr_criss":{ 
          "name":"mr_criss",
