@@ -1,16 +1,10 @@
 {
     "servers":{
+      "Lunar Network":{
+        "address":"lunar.gg"
+},
       "Certix Network":{
         "address":"certix.cc"
-},
-      "CavePvP":{
-        "address":"cavepvp.org"
-},
-      "Arcane":{
-        "address":"arcane.cc"
-},
-      "VeltPvP":{
-        "address":"veltpvp.com"
         }
     }
 }
