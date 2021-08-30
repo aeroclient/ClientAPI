@@ -190,13 +190,6 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"owner"
- },
-      "Arcane 2.0":{ 
-         "name":"Arcane 2.0",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"Arcane"
 },
       "2016":{ 
          "name":"2016",
@@ -225,13 +218,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"2019"
-},
-      "Birthday":{ 
-         "name":"Birthday",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"Birthday"
 },
       "partner":{ 
          "name":"partner",
@@ -275,20 +261,6 @@
          "active":false,
          "resourceLocation":"korea"
 },
-      "ultra_duck":{ 
-         "name":"ultra_duck",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"ultra_duck"
-},
-      "vaporwave":{ 
-         "name":"vaporwave",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"vaporwave"
-},
       "guffah":{ 
          "name":"guffah",
          "type":"cape",
@@ -330,13 +302,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"aero_purple"
-},
-      "aero_purple_old":{ 
-         "name":"aero_purple_old",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"aero_purple_old"
 },
       "dark_gold":{ 
          "name":"dark_gold",
