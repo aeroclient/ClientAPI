@@ -289,6 +289,20 @@
          "active":false,
          "resourceLocation":"certix"
 },
+      "ColdNetwork_blue":{ 
+         "name":"ColdNetwork_blue",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"coldnetwork_blue"
+},
+      "ColdNetwork_snow":{ 
+         "name":"ColdNetwork_snow",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"coldnetwork_snow"
+},
       "aero_gold":{ 
          "name":"aero_gold",
          "type":"cape",
