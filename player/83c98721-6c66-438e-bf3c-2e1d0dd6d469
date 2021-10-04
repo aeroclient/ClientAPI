@@ -198,47 +198,12 @@
          "active":false,
          "resourceLocation":"2016"
 },
-      "2011":{ 
-         "name":"2011",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"2011"
-},
-      "2013":{ 
-         "name":"2013",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"2013"
-},
-      "2019":{ 
-         "name":"2019",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"2019"
-},
-      "partner":{ 
-         "name":"partner",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"partner"
-},
       "ac":{ 
          "name":"ac",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"ac"
-},
-      "CheatbreakerRed":{ 
-         "name":"CB_Red",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"cbred"
 },
       "mr_criss":{ 
          "name":"mr_criss",
@@ -288,20 +253,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"certix"
-},
-      "ColdNetwork_blue":{ 
-         "name":"ColdNetwork_blue",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"coldnetwork_blue"
-},
-      "ColdNetwork_snow":{ 
-         "name":"ColdNetwork_snow",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"coldnetwork_snow"
 },
       "aero_gold":{ 
          "name":"aero_gold",
