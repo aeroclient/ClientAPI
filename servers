@@ -1,8 +1,5 @@
 {
     "servers":{
-      "Lunar Network":{
-        "address":"lunar.gg"
-},
       "Certix Network (certix.cc)":{
         "address":"certix.cc"
         }
