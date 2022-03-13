@@ -1,7 +1,10 @@
 {
     "servers":{
+      "Iconic Network (mc.iconicclient.tk)":{
+        "address":"mc.iconicclient.tk"
+},
       "Certix Network (certix.cc)":{
         "address":"certix.cc"
         }
-    }
-}
+       }
+      }
