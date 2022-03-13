@@ -1,0 +1,139 @@
+{  
+   "uuid":"27700a2a-2f5e-46ca-b309-b8f2769fda27", 
+   "username":PolesCC,  
+   "cosmetics":{  
+      "white_wings":{ 
+         "name":"white_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white_wings"
+},
+      "original_wings":{ 
+         "name":"original_wings",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"original_wings"
+},
+      "black_wings":{ 
+         "name":"black_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"black_wings"
+},
+      "blue_wings":{ 
+         "name":"blue_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"blue_wings"
+},
+      "bone_wings":{ 
+         "name":"bone_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"bone_wings"
+},
+      "blue_butterfly":{ 
+         "name":"blue_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"blue_butterfly"
+},
+      "yellow_butterfly":{ 
+         "name":"yellow_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"yellow_butterfly"
+},
+      "pink_butterfly":{ 
+         "name":"pink_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pink_butterfly"
+},
+      "rainbow_butterfly":{ 
+         "name":"rainbow_butterfly",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"rainbow_butterfly"
+},
+      "weed_wings":{ 
+         "name":"weed_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"weed_wings"
+},
+      "light_blue_wings":{ 
+         "name":"light_blue_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"light_blue_wings"
+},
+      "light_pink_wings":{ 
+         "name":"light_pink_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"light_pink_wings"
+},
+      "mint_wings":{ 
+         "name":"mint_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"mint_wings"
+},
+      "dark_blue_wings":{ 
+         "name":"dark_blue_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"dark_blue_wings"
+},
+      "green_wings":{ 
+         "name":"green_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"green_wings"
+},
+      "indigo_wings":{ 
+         "name":"indigo_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"indigo_wings"
+},
+      "orange_wings":{ 
+         "name":"orange_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"orange_wings"
+},
+      "pink_wings":{ 
+         "name":"pink_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"pink_wings"
+},
+      "purple_wings":{ 
+         "name":"purple_wings",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple_wings"
+},
+      "red_wings":{ 
+         "name":"red_wings",
