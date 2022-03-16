@@ -1,0 +1,31 @@
+{  
+   "uuid":"1b6f42e2-1453-454c-87ed-e06bcc93f7ff", 
+   "username":null,  
+   "cosmetics":{  
+     
+},
+      "aero_galaxy_2":{ 
+         "name":"aero_galaxy_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"aero_galaxy_2"
+},
+      "aero_galaxy_3":{ 
+         "name":"aero_galaxy_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"aero_galaxy_3"
+},
+
+      "aero_galaxy":{ 
+         "name":"aero_galaxy",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"aero_galaxy"
+
+      }
+   }
+}
