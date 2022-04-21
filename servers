@@ -1,9 +1,12 @@
 {
     "servers":{
-      "Iconic Network (mc.iconicclient.tk)":{
-        "address":"mc.iconicclient.tk"
+      "Minemen EU":{
+        "address":"eu.minemen.club"
 },
-      "Certix Network (certix.cc)":{
+      "Minemen NA":{
+        "address":"na.minemen.club"
+},
+      "Certix Network":{
         "address":"certix.cc"
         }
     }
