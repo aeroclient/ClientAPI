@@ -181,14 +181,14 @@
          "name":"owner_wings",
          "type":"dragon_wings",
          "scale":0.20,
-         "active":true,
+         "active":false,
          "resourceLocation":"owner_wings"
 },
       "owner":{ 
          "name":"owner",
          "type":"cape",
          "scale":0.20,
-         "active":true,
+         "active":false,
          "resourceLocation":"owner"
 },
       "2016":{ 
