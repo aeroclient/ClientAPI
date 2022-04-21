@@ -526,7 +526,9 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"hayden"
-"coldnetwork_blue":{  
+
+},    
+      "coldnetwork_blue":{  
          "name":"coldnetwork_blue",  
          "type":"cape",  
          "scale":0.16,  
