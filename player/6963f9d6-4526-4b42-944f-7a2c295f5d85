@@ -541,6 +541,14 @@
          "scale":0.16,  
          "active":false,  
          "resourceLocation":"coldnetwork_snow"  
+},
+
+     "kirahcf":{  
+         "name":"kirahcf",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"kirahcf"  
       }
    }
 }
