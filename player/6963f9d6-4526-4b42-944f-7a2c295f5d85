@@ -526,6 +526,19 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"hayden"
+"coldnetwork_blue":{  
+         "name":"coldnetwork_blue",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"coldnetwork_blue"  
+},
+      "coldnetwork_snow":{  
+         "name":"coldnetwork_snow",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"coldnetwork_snow"  
       }
    }
 }
